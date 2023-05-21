@@ -33,6 +33,44 @@ Para complementar la información de los festivales, se desea obtener datos demo
 
 ### Datos económicos
 
-Además del análisis de los festivales, se desea analizar el impacto económico en el sector de la organización de eventos musicales. Se
+Además del análisis de los festivales, se desea analizar el impacto económico en el sector de la organización de eventos musicales. Se encontró una Asociación de Promotores Musicales que publica anualmente un Anuario con información económica del sector. Los datos de facturación neta de la asociación están agrupados por meses, provincias, comunidades autónomas, entre otros.
+
+## Extracción / Tratamiento de los datos
+
+### Datos musicales
+
+Para la extracción de información de las fuentes mencionadas, se utilizó la técnica de web scraping con Beautiful Soup. Se extrajo información musical (nombre del festival, artistas, estilos) y datos de localización (latitud, longitud, provincia, localidad, lugar de los conciertos, fechas de inicio y finalización). La información se estructuró en un dataframe utilizando la librería Pandas de Python.
+
+### Datos demográficos
+
+Antes de poder relacionar los datos demográficos del INE.es con los festivales, fue necesario unir las tablas utilizando el código de municipio como clave de relación.
+
+### Datos económicos
+
+Los datos económicos no estaban disponibles en un archivo, sino en formato PDF. Para extraer los datos, se utilizó la librería de reconocimiento óptico de caracteres (OCR) llamada pytesseract.
+
+## Representación de los datos
+
+Se utilizaron las siguientes herramientas y librerías para representar los datos:
+
+- **Plotly**: Se utilizó la librería Plotly Express para generar gráficos de barras, gráficos circulares y gráficos de líneas.
+
+- **Wordcloud**: Se crearon nubes de palabras para representar gráficamente las diferentes variables de análisis en cada uno de los bloques (datos musicales, económicos y demográficos) utilizando la librería Wordcloud.
+
+- **Folium**: Se utilizó Folium para generar un mapa de España que muestra la ubicación de cada festival agrupado por estilos de música.
+
+## Principales dificultades
+
+Las principales dificultades encontradas durante el análisis exploratorio de datos fueron:
+
+- El proceso de web scraping, ya que la estructura de las diferentes URLs no era consistente, lo que requirió ajustes en el código para asegurar la extracción completa de los datos y evitar valores vacíos en el dataframe.
+
+- El tratamiento de los datos demográficos obtenidos del INE.es, que requirió un esfuerzo adicional para hacer coincidir los datos mediante el código de municipio y luego combinarlos con los códigos postales de los registros de los festivales.
+
+- El proceso de reconocimiento de caracteres en imágenes OCR, que presentó dificultades cuando algunas imágenes no eran claras y las cifras no se reconocían correctamente. Fue necesario verificar visualmente algunos datos en tablas para asegurar su precisión.
+
+## Documentación
+
+Se adjunta la documentación de los anuarios de la Asociación de Promotores Musicales de los años 2014, 2021 y 2023.
 
 
