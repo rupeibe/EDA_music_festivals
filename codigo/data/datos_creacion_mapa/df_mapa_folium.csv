@@ -1,0 +1,546 @@
+,festival,local,direccion,ciudad,provincia,latitude,longitude,fecha_inicio,fecha_fin,duracion,estilo,dia_mes
+0,Lovin Ibiza Festival,Lío Ibiza,"Passeig Joan Carles I, 1",Eivissa,Islas Baleares,38.913852,1.443275,2023-04-28,2023-04-30,3,electronica,28-04
+1,IMS Dalt Vila,"['Baluarte de Santa Lucía', 'Dalt Vila']","Carrer Baluarte Santa Lucía, 1",Ibiza,Islas Baleares,38.908434,1.438789,2023-04-28,2023-04-28,1,electronica,28-04
+2,DarkMAD,Autocine,"C. de la Isla de Java, 2",Madrid,Madrid,40.486224,-3.677802,2023-04-29,2023-04-30,2,electronica,29-04
+3,Tv Hardcore Festival,Family Club,"Carretera Madrid-Ciudad Real, Km 96",Sonseca,Toledo,39.6759291,-3.9608126,2023-04-29,2023-04-29,1,electronica,29-04
+4,Valencia Flow Fest,La 3 park,"Carrera del Riu, 399",Pinedo,Valencia,39.410957,-0.334871,2023-05-06,2023-05-07,2,electronica,06-05
+5,Ritmo Festival,Paraje Natural Ermita de los Tres Juanes,,Atarfe,Granada,37.236180,-3.687694,2023-05-12,2023-05-13,2,electronica,12-05
+6,Festival Días de Campo,Polideportivo Municipal,CV-195,Montanejos,Castellón,40.074435,-0.526620,2023-05-19,2023-05-21,3,electronica,19-05
+7,Molan los 90 Zaragoza,Parque Deportivo Ebro,"Parque Deportivo Ebro, Cam. de Monzalbarba, 318",Zaragoza,Zaragoza,41.667911,-0.922852,2023-05-20,2023-05-20,1,electronica,20-05
+8,Love the 90’s Valencia,Ciudad de Las Artes y Las Ciencias,"Av. del Professor López Piñero, 7",Valencia,Valencia,39.454884,-0.350533,2023-06-03,2023-06-03,1,electronica,03-06
+9,Homenaje a la Ruta 90's & 2MIL Benidorm,Auditorio Julio Iglesias,"C. Primavera, 22",Benidorm,Alicante,38.542334,-0.130211,2023-06-10,2023-06-10,1,electronica,10-06
+10,Sónar,Sónar de día - Fira Montjuïc,"Avinguda Rius i Taulet, s/n",Barcelona,Barcelona,41.372491,2.153574,2023-06-15,2023-06-17,3,electronica,15-06
+11,OFFSónar,Poble Espanyol,"Av Francesc Ferrer i Guardia, 13",Barcelona,,41.368544,2.148258,2023-06-15,2023-06-18,4,electronica,15-06
+12,O Son do Camiño,Parque Monte Do Gozo,Parque Monte do Gozo,Santiago de Compostela,A Coruña,42.886102,-8.496831,2023-06-15,2023-06-17,3,electronica,15-06
+13,OffWeek Festival,Parc del Fòrum,"Carrer de la Pau, 12",San Adrián del Besós,Barcelona,41.411450,2.224560,2023-06-16,2023-06-17,2,electronica,16-06
+14,Animal Sound Festival,Recinto Ferial La Fica,"Diseminado Primero Mayo, 19",Murcia,Murcia,37.983615,-1.109834,2023-06-16,2023-06-17,2,electronica,16-06
+15,Love the 90’s Madrid,IFEMA - Feria de Madrid,"Av. del Partenón, Nº 5",Madrid,Madrid,40.467454,-3.616905,2023-06-17,2023-06-17,1,electronica,17-06
+16,A Summer Story,Ciudad del Rock,"Carretera N-III, Km. 33",Arganda del Rey,Madrid,40.259650,-3.405805,2023-06-23,2023-06-24,2,electronica,23-06
+17,Love the Tuenti's,IFEMA. Feria de Madrid,"Av. Partenón, Nº 5",Madrid,Madrid,40.464254,-3.616390,2023-06-24,2023-06-24,1,electronica,24-06
+18,Ultra Beach Costa del Sol,Marenostrum Fuengirola,,Fuengirola,Málaga,36.524777,-4.628699,2023-06-24,2023-06-24,1,electronica,24-06
+19,Holika Festival,,Cta. de La Catedral,Calahorra,La Rioja,42.297183,-1.957970,2023-06-29,2023-07-01,3,electronica,29-06
+20,Maudes Festival,IFEMA,"Av. del Partenón, 5",Madrid,Madrid,40.467845,-3.617305,2023-06-30,2023-07-01,2,electronica,30-06
+21,Weekend Beach Festival,Playa de Poniente,"Calle Faro Nuevo, 5",Torre del Mar,Málaga,36.732061,-4.099714,2023-07-05,2023-07-08,4,electronica,05-07
+22,Homenaje a la Ruta 90's & 2MIL Valencia,La Marina de Valencia,"C/ de la Aduana, s/n, Moll de Ponent",Valencia,Valencia,39.461478,-0.329933,2023-07-08,2023-07-08,1,electronica,08-07
+23,FIB,Benicàssim,"Carretera N-340, kilómetro 986,300",Benicàssim,Castellón,40.048068,0.047872,2023-07-13,2023-07-16,4,electronica,13-07
+24,Fan Futura Fest,Polideportivo San Javier,Explanada Mariano Rojas,San Javier,Murcia,37.810538,-0.829017,2023-07-28,2023-07-29,2,electronica,28-07
+25,Monegros Desert Festival,Desierto de los Monegros,Carretera Nacional II,Fraga,Huesca,41.524747,0.125433,2023-07-29,2023-07-29,1,electronica,29-07
+26,Loona Summer Festival,Campo de Fútbol El Morche,"Calle el Copo, 40",El Morche,Málaga,36.736859,-3.988820,2023-07-29,2023-07-29,1,electronica,29-07
+27,Arenal Sound,Playa el Arenal,Avinguda de la Mediterrània s/n,Burriana,Castellón,39.864638,-0.066583,2023-08-01,2023-08-06,6,electronica,01-08
+28,Dreambeach Festival,Playa de Villaricos (Cuevas del Almanzora),Playa de Villaricos,Almería,Almería,37.246981,-1.773692,2023-08-09,2023-08-13,5,electronica,09-08
+29,Medusa Sun Beach Festival,Playa de Cullera,,Cullera,Valencia,39.153842,-0.242901,2023-08-09,2023-08-14,6,electronica,09-08
+30,Aquasella,El Merediz,,Arriondas,Asturias,43.393635,-5.176299,2023-08-17,2023-08-20,4,electronica,17-08
+31,The End of the World Festival,Parc de la Serra,,Mollerusa,Lleida,41.614448,0.861740,2023-08-26,2023-08-26,1,electronica,26-08
+32,Love the 90’s Alicante,Area 12 (Multiespacio Rabasa),Carrer de Xàtiva,Alicante,Alicante,38.377613,-0.506809,2023-08-26,2023-08-26,1,electronica,26-08
+33,Parallel Festival,Port del Comte,Urbanització Port del Comte,La Coma i la Pedra,Lleida,42.172526,1.542655,2023-09-01,2023-09-03,3,electronica,01-09
+34,Extremúsika,Recinto Hípico,"Ctra. Mérida, S/N",Cáceres,Cáceres,39.442331,-6.373283,2023-10-12,2023-10-14,3,electronica,12-10
+35,WAN Festival,Cubierta de Leganés,"Calle del Maestro, 4",Leganés,Madrid,40.325968,-3.758612,2023-01-01,2023-01-01,1,electronica,01-01
+36,Palma On Season Fest,Parc del Mar,Parc del Mar,Palma,Islas Baleares,39.565323,2.648738,2023-02-10,2023-02-12,3,electronica,10-02
+37,AbroadFest,Varias localizaciones,,Barcelona,Barcelona,41.384072,2.173020,2023-03-02,2023-03-11,10,electronica,02-03
+38,Snowdaze,Estación de Candanchú,"Carretera Francia, s/n",Candanchú,Huesca,42.786709,-0.535970,2023-03-17,2023-03-18,2,electronica,17-03
+39,Iboga Rave Madrid,Sala La Riviera,"P.º Bajo de la Virgen del Puerto, S/N",Madrid,Madrid,40.413007,-3.722130,2023-03-18,2023-03-18,1,electronica,18-03
+40,Makinando Festival,Palacio de Congresos y Exposiciones de León,Calle Gómez Salazar,León,León,42.593406,-5.583630,2023-03-25,2023-03-25,1,electronica,25-03
+41,Primavera Festival Cáceres,Recinto Hípico,"Ctra. Mérida-Badajoz, s/n",Cáceres,Cáceres,39.442490,-6.372886,2023-03-30,2023-03-30,1,electronica,30-03
+42,Sun & Snow Weekend,Parque de actividades Mirlo Blanco,"Prado Llano, S/N",Sierra Nevada,Granada,37.089658,-3.399330,2023-03-31,2023-04-02,3,electronica,31-03
+43,Planet 90's & 00's Dance Festival,Music Park Torrijos,"Polígono Rústica-3, 67",Rielves,Toledo,39.965439,-4.214864,2023-04-01,2023-04-01,1,electronica,01-04
+44,Iboga Rave Valencia,Sala Repvblicca,"Pol. Industrial Mislata, Carrer Baix Vinalopó, 2",Valencia,Valencia,39.472469,-0.426922,2023-04-01,2023-04-01,1,electronica,01-04
+45,I Love Music Festival,Siam Park,"Av. Siam, s/n",Costa Adeje,Santa Cruz de Tenerife,28.072100,-16.725583,2023-04-08,2023-04-08,1,electronica,08-04
+46,LEV,Laboral Ciudad de la Cultura,"Luis Moya Blanco, 261",Gijón,Asturias,43.524042,-5.614242,2023-04-27,2023-04-30,4,electronica,27-04
+47,Iruña Rock,Navarra Arena,"Plaza Aizagerria, nº 1",Pamplona,Navarra,42.795708,-1.634686,2023-03-31,2023-04-01,2,"fusion, world music",31-03
+48,Iberojoven,Recinto IberoJoven,La Nava,Peal de Becerro,,37.917058,-3.119613,2023-04-01,2023-04-01,1,"fusion, world music",01-04
+49,Zeid Fest,BEC! Bizkaia Arena,"Azkue Kalea, 1",Barakaldo,Vizcaya,43.287911,-2.989424,2023-04-01,2023-04-01,1,"fusion, world music",01-04
+50,Sound Isidro,Varias localizaciones,,Madrid,Madrid,40.412126,-3.697799,2023-04-01,2023-05-31,61,"fusion, world music",01-04
+51,Iboga Rave Valencia,Sala Repvblicca,"Pol. Industrial Mislata, Carrer Baix Vinalopó, 2",Valencia,Valencia,39.472469,-0.426922,2023-04-01,2023-04-01,1,"fusion, world music",01-04
+52,El Festivalino de Pescueza,Plaza Mayor,,Pescueza,Cáceres,39.917881,-6.646035,2023-04-14,2023-04-16,3,"fusion, world music",14-04
+53,La Cueva Music Festival,Recinto Ferial de Alcalá de Guadaíra,C. San Juan,Alcalá de Guadaíra,Sevilla,37.331113,-5.840113,2023-04-15,2023-04-15,1,"fusion, world music",15-04
+54,Cruilla de Primavera,Sala Apolo,"Carrer Nou de la Rambla, 113",Barcelona,Barcelona,41.374436,2.169626,2023-03-10,2023-04-22,44,"fusion, world music",10-03
+55,Viña Rock,Recinto Ferial de Villarrobledo,"Santa Ana, 55",Villarrobledo,Albacete,39.272929,-2.608867,2023-04-28,2023-04-30,3,"fusion, world music",28-04
+56,Solazo Fest,Recinto Ferial de Almería,Vega de Aca,Almería,Almería,36.837678,-2.431219,2023-04-28,2023-04-30,3,"fusion, world music",28-04
+57,Boquerón Primavera Festival,Autocine Málaga Cesur FP,Ctra. de la Azucarera Intelhorce,Málaga,Málaga,36.691877,-4.488300,2023-04-29,2023-04-29,1,"fusion, world music",29-04
+58,Valencia Flow Fest,La 3 park,"Carrera del Riu, 399",Pinedo,Valencia,39.410957,-0.334871,2023-05-06,2023-05-07,2,"fusion, world music",06-05
+59,Womad Cáceres,Plaza de San Jorge,,Cáceres,,39.476179,-6.370760,2023-05-11,2023-05-14,4,"fusion, world music",11-05
+60,Marenostrum Fuengirola,Marenostrum Fuengirola,,Fuengirola,Málaga,36.525226,-4.627776,2023-05-13,2023-08-19,99,"fusion, world music",13-05
+61,Ciruelas Music Festival,Campo de Fútbol de Valdivia,,Valdivia,Badajoz,39.031794,-5.710101,2023-05-13,2023-05-13,1,"fusion, world music",13-05
+62,Mallorca Live Festival,Recinto Mallorca Live (Antiguo Aqualand),Carretera Cala Figuera S/N,Calvià,Islas Baleares,39.505018,2.521212,2023-05-18,2023-05-20,3,"fusion, world music",18-05
+63,Murmura Festival,Varias ubicaciones,,Alboloduy,Almería,37.032703,-2.620618,2023-05-19,2023-05-21,3,"fusion, world music",19-05
+64,Rie&Go Music Fest,Parque el Ranchillo,,Las Cabezas de San Juán,Sevilla,36.999434,-5.929999,2023-05-19,2023-05-20,2,"fusion, world music",19-05
+65,El Festival de las Estrellas,Teatro Real,"Pl. de Isabel II, s/n",Madrid,Madrid,40.418310,-3.710571,2023-01-21,2023-05-25,125,"fusion, world music",21-01
+66,Ourensound Fest,La Ciudad de los Muchachos,,Bemposta,Ourense,42.302000,-7.847472,2023-05-26,2023-05-27,2,"fusion, world music",26-05
+67,Murcia On,Plaza de Toros de Murcia,"Rda. de Garay, 48",Murcia,Murcia,37.985238,-1.122537,2023-05-26,2023-10-14,142,"fusion, world music",26-05
+68,Guadalajara Vive Fest,Fuente de la Niña,"P.º Francisco Aritmendi, 5",Guadalajara,Guadalajara,40.626722,-3.151904,2023-05-26,2023-05-27,2,"fusion, world music",26-05
+69,Kannasur Festival,Pabellón de la Navegación,"Camino de los Descubrimientos, 2",Sevilla,Sevilla,37.394232,-6.008062,2023-05-26,2023-05-28,3,"fusion, world music",26-05
+70,Primavera Sound Barcelona,Parc del Fòrum,"Rambla de Prim, 1",Barcelona,Barcelona,41.411192,2.223315,2023-06-01,2023-06-03,3,"fusion, world music",01-06
+71,Sabatic Fest,Autocine Málaga Cesur FP,Ctra. de la Azucarera Intelhorce,Málaga,Málaga,36.691892,-4.488344,2023-06-01,2023-09-15,107,"fusion, world music",01-06
+72,Alameda Festival,Polígono La Amarguilla,,Alameda,Málaga,37.212026,-4.651035,2023-06-02,2023-06-03,2,"fusion, world music",02-06
+73,Primavera Sound Madrid,Ciudad del Rock,,Arganda del Rey,Madrid,40.260288,-3.405719,2023-06-08,2023-06-10,3,"fusion, world music",08-06
+74,Noches del Botánico,UCM-Real Jardín Botánico Alfonso XIII,"Av. Complutense, s/n, 12",Madrid,Madrid,40.448147,-3.727777,2023-06-09,2023-07-30,52,"fusion, world music",09-06
+75,Afro Blue Festival,Jardines de Zuloaga,,Segovia,Segovia,40.951284,-4.117105,2023-06-09,2023-06-10,2,"fusion, world music",09-06
+76,Área 12,Multiespacio Rabasa,Carrer de Xàtiva,Alicante,Alicante,38.376940,-0.507410,2023-06-10,2023-09-02,85,"fusion, world music",10-06
+77,Embotona't Festival,Poble Espanyol,"Av. de Francesc Ferrer i Guàrdia, 13",Barcelona,Barcelona,41.368822,2.148256,2023-06-11,2023-06-11,1,"fusion, world music",11-06
+78,Icónica Fest,La Plaza de España,Av. Isabel la Católica,Sevilla,Sevilla,37.377200,-5.986894,2023-06-15,2023-07-22,38,"fusion, world music",15-06
+79,O Son do Camiño,Parque Monte Do Gozo,Parque Monte do Gozo,Santiago de Compostela,A Coruña,42.886102,-8.496831,2023-06-15,2023-06-17,3,"fusion, world music",15-06
+80,Boombastic Festival Madrid,Auditorio Miguel Ríos,"P.º Alicia Alonso, s/n",Rivas-Vaciamadrid,Madrid,40.345497,-3.514166,2023-06-16,2023-06-17,2,"fusion, world music",16-06
+81,Cabró Rock,Zona deportiva de la UVic,"Carrer Anton Vila Canyelles, s/n",Vic,Barcelona,41.936182,2.240009,2023-06-16,2023-06-17,2,"fusion, world music",16-06
+82,Starlite Marbella,Auditorio La Cantera de Nagüeles,"Calle Albinoni, s/n",Marbella,Málaga,36.532709,-4.921188,2023-06-21,2023-09-02,74,"fusion, world music",21-06
+83,City Festival Huelva,Parque Alonso Sánchez,"Cta. de la Tres Caídas, 11",Huelva,Huelva,37.258203,-6.947381,2023-06-22,2023-06-24,3,"fusion, world music",22-06
+84,Boombastic Festival Canarias,Anexo Estadio de Gran Canaria,"C. Fondos de Segura, s/n",Las Palmas de Gran Canaria,Las Palmas,28.102238,-15.454372,2023-06-23,2023-06-24,2,"fusion, world music",23-06
+85,Open Festival Tomares,Parque Jardines del Conde,"Calle de la Fuente, 8",Tomares,Sevilla,37.374199,-6.045624,2023-06-23,2023-07-01,9,"fusion, world music",23-06
+86,Caleidoscopio Music Fest,Polideportivo Municipal El Jaenal,"Av. de Málaga, 50",Yunquera de Henares,Guadalajara,40.760001,-3.174856,2023-06-24,2023-06-24,1,"fusion, world music",24-06
+87,Reggaeton Beach Festival (Marina D'Or),Marina d'Or,,Oropesa del Mar,Castellón,40.105682,0.151684,2023-06-24,2023-06-25,2,"fusion, world music",24-06
+88,Granada Latina Festival,Cortijo del Conde,Barrio Pt-Cc Cortijo del Conde,Granada,Granada,37.200651,-3.656157,2023-06-24,2023-06-24,1,"fusion, world music",24-06
+89,Música en Grande,Campos del Malecón,"Manuel Pondal, s/n",Torrelavega,Cantabria,43.350226,-4.062688,2023-06-28,2023-07-01,4,"fusion, world music",28-06
+90,Guitar BCN,Varias localizaciones,,Barcelona,Barcelona,41.385566,2.175531,2023-01-27,2023-06-29,154,"fusion, world music",27-01
+91,Oasis Sound Festival,Recinto Oasis Sound,Camino pozo de los carneros,La Solana,Ciudad Real,38.933504,-3.265487,2023-06-30,2023-07-01,2,"fusion, world music",30-06
+92,Festival Río Babel,Caja Mágica,"Cmo. de Perales, 23",Madrid,Madrid,40.368782,-3.684282,2023-06-30,2023-07-02,3,"fusion, world music",30-06
+93,Lagata Reggae Festival,Azuara,,Azuara,Zaragoza,41.255855,-0.872555,2023-06-30,2023-07-02,3,"fusion, world music",30-06
+94,Festival Cueva de Nerja,Exterior Cueva de Nerja,Carr. de Bajada a Playa de Maro,Nerja,Málaga,36.762015,-3.844933,2023-06-30,2023-08-12,44,"fusion, world music",30-06
+95,Metrópoli Gijón,Recinto Ferial Luis Adaro,"Paseo Dr. Fleming, 481",Gijón,Asturias,43.538843,-5.636115,2023-06-30,2023-07-09,10,"fusion, world music",30-06
+96,A la Sombra de Jano Music Festival,Bárcena de Pie de Concha,,Bárcena de Pie de Concha,Cantabria,43.126438,-4.053634,2023-06-30,2023-07-01,2,"fusion, world music",30-06
+97,Festival de la Porta Ferrada,Spai Port,"Z. Port, 1",San Feliu de Guíxols,Girona,41.779609,3.038288,2023-06-30,2023-08-20,52,"fusion, world music",30-06
+98,Concert Music Festival,Concert Music Festival,Calle Avenida,Chiclana de la Frontera (poblado de Sancti Petri),,36.394005,-6.207314,2023-07-01,2023-08-31,62,"fusion, world music",01-07
+99,Canet Rock,Canet de Mar,Pla d'en Sala,Canet de Mar,Barcelona,41.593742,2.567597,2023-07-01,2023-07-01,1,"fusion, world music",01-07
+100,Bahía Sound,Centro Comercial Bahía Sur,"Avda. Caño Herrera, S/N",San Fernando,Cádiz,36.470933,-6.208702,2023-07-01,2023-08-19,50,"fusion, world music",01-07
+101,Concerts de Vivers,Jardines del Real o Viveros,"Carrer de Cavanilles, 1",Valencia,Valencia,39.480281,-0.367696,2023-07-01,2023-07-23,23,"fusion, world music",01-07
+102,Sotogrande Music Festival,Santa María Polo Club,Autovía del Mediterráneo,Sotogrande,Cádiz,36.294928,-5.282021,2023-07-01,2023-09-15,77,"fusion, world music",01-07
+103,Weekend Beach Festival,Playa de Poniente,"Calle Faro Nuevo, 5",Torre del Mar,Málaga,36.732061,-4.099714,2023-07-05,2023-07-08,4,"fusion, world music",05-07
+104,Cruilla,Parc del Fòrum,"Muelle de la Marina Seca, C/ De la Pau, 12",Sant Adrià de Besòs,Barcelona,41.410693,2.226341,2023-07-05,2023-07-08,4,"fusion, world music",05-07
+105,Bilbao BBK Live,Kobetamendi,Calle del Monte Cobetas,Bilbao,Vizcaya,43.258276,-2.964163,2023-07-06,2023-07-08,3,"fusion, world music",06-07
+106,Mad Cool Festival,La Ciudad de la Música,Calle Laguna Dalga,Colonia Marconi (Villaverde),Madrid,40.329834,-3.711200,2023-07-06,2023-07-08,3,"fusion, world music",06-07
+107,Feslloc!,Poliesportiu de Benlloc,"Carrer de la Llibertat, 51",Benlloch,Valencia,40.209020,0.030786,2023-07-06,2023-07-08,3,"fusion, world music",06-07
+108,Granca Live Fest,Estadio de Gran Canaria,"C. Fondos de Segura, s/n",Las Palmas de Gran Canaria,Las Palmas,28.100452,-15.456820,2023-07-07,2023-07-08,2,"fusion, world music",07-07
+109,Alterna Festival,Recinto Alterna Festival,"Calle Don Quijote de la Mancha, 2",El Bonillo,Albacete,38.952476,-2.536924,2023-07-07,2023-07-08,2,"fusion, world music",07-07
+110,Pirineos Sur,Auditorio Natural de Lanuza,,Sallent de Gállego,Huesca,42.757979,-0.316029,2023-07-07,2023-07-29,23,"fusion, world music",07-07
+111,Isla Bonita Love Festival,Puerto de Tazacorte,,"['Tazacorte', 'La Palma']",Santa Cruz de Tenerife,28.644423,-17.943800,2023-07-08,2023-07-08,1,"fusion, world music",08-07
+112,Festival Internacional do Mundo Celta de Ortigueira,Plaza Isabel II,,Ortigueira,A Coruña,43.684469,-7.854814,2023-07-09,2023-07-16,8,"fusion, world music",09-07
+113,Alma Festival Jardins Pedralbes,Poble Espanyol,"Av. de Francesc Ferrer i Guàrdia, 13",Barcelona,Barcelona,41.368822,2.148256,2023-07-10,2023-07-27,18,"fusion, world music",10-07
+114,Pirata Beach Festival,Polígono Industrial Benieto,"Carrer dels Carrossers, 27",Gandia,Valencia,38.956917,-0.170496,2023-07-12,2023-07-15,4,"fusion, world music",12-07
+115,Boombastic Festival Asturias,Jardines Feriales de Llanera,Recinto Ferial de Llanera,Llanera,Asturias,43.430827,-5.864897,2023-07-13,2023-07-15,3,"fusion, world music",13-07
+116,EtnoSur,Recinto Etnosur,"Av. de Andalucía, 44",Alcalá la Real,Jaén,37.455148,-3.920918,2023-07-13,2023-07-16,4,"fusion, world music",13-07
+117,Acampada Jove,Sant Sadurní d'Anoia,,Sant Sadurní d'Anoia,Barcelona,41.426223,1.786745,2023-07-13,2023-07-15,3,"fusion, world music",13-07
+118,Festival Sónica,Estadio Riomar,Av. Riomar 2,Castro Urdiales,Cantabria,43.370741,-3.209800,2023-07-14,2023-07-15,2,"fusion, world music",14-07
+119,Zevra Festival,Playa de Cullera (Recinto Medusa Festival),"Plaça Numero 23, 96",Cullera,Valencia,39.156721,-0.244832,2023-07-21,2023-07-24,4,"fusion, world music",21-07
+120,Tío Pepe Festival,Bodegas Tío Pepe,"Calle Manuel María González, 12",Jerez de la Frontera,Cádiz,36.679774,-6.141541,2023-07-21,2023-08-14,25,"fusion, world music",21-07
+121,LeturAlma,Campo de Fútbol de Letur,,Letur,Albacete,38.364254,-2.100993,2023-07-21,2023-07-22,2,"fusion, world music",21-07
+122,Sons del Món,Ciutadella de Roses,Av. de Rhode s/n,Roses,Girona,42.265686,3.170543,2023-07-21,2023-08-07,18,"fusion, world music",21-07
+123,Cabo de Plata,Playa de la Hierbabuena,,Barbate,Cádiz,36.186226,-5.941415,2023-07-26,2023-07-29,4,"fusion, world music",26-07
+124,Nits de Vivers,Jardines del Real o Viveros,"Carrer de Cavanilles, 1",Valencia,Valencia,39.480281,-0.367696,2023-07-26,2023-08-05,11,"fusion, world music",26-07
+125,Festival Jardins Terramar,Parque Terramar,Carrer Cristóbal Colón,Sitges,Barcelona,41.228556,1.785482,2023-07-28,2023-08-10,14,"fusion, world music",28-07
+126,Fan Futura Fest,Polideportivo San Javier,Explanada Mariano Rojas,San Javier,Murcia,37.810538,-0.829017,2023-07-28,2023-07-29,2,"fusion, world music",28-07
+127,Imagina Funk,Pozo Alcón,,Torres,Jaén,37.704440,-2.938188,2023-07-28,2023-07-29,2,"fusion, world music",28-07
+128,Arenal Sound,Playa el Arenal,Avinguda de la Mediterrània s/n,Burriana,Castellón,39.864638,-0.066583,2023-08-01,2023-08-06,6,"fusion, world music",01-08
+129,The Juergas Rock Festival,Recinto The Juergas Rock,Playa del Censo s/n,Adra,Almería,36.743544,-3.010919,2023-08-02,2023-08-05,4,"fusion, world music",02-08
+130,Arts d'Estiu,Espai Marítim ARTS d'Estiu,Passeig Marítim,Pineda de Mar,Barcelona,41.624522,2.701650,2023-08-02,2023-08-14,13,"fusion, world music",02-08
+131,Festiuet,Playa de San Salvador,,El Vendrell,Tarragona,41.181852,1.534481,2023-08-03,2023-08-05,3,"fusion, world music",03-08
+132,SonRías Baixas,Recinto Multiusos da Estacada,Rúa Pazos Fontenla 55,Bueu,Pontevedra,42.325401,-8.787413,2023-08-03,2023-08-05,3,"fusion, world music",03-08
+133,SOM Festival Castelló,Real Club Náutico de Castellón,"Calle Escollera de Pte., s/n",Puerto de Castellón,Castellón,39.970530,0.014745,2023-08-04,2023-08-20,17,"fusion, world music",04-08
+134,Boombastic Day Costa del Sol,Marenostrum Fuengirola,,Fuengirola,Málaga,36.524777,-4.628699,2023-08-12,2023-08-12,1,"fusion, world music",12-08
+135,Cabaret Festival El Puerto de Santa María,Real Plaza de Toros,"Pl. de Elías Ahuja, s/n",El Puerto de Santa María,Cádiz,36.596787,-6.232767,2023-08-15,2023-08-20,6,"fusion, world music",15-08
+136,Rototom Sunsplash,Recinto de Festivales (Benicàssim),"Recinto Festivales, N-340, Km 986,3",Benicàssim,Castellón,40.048249,0.048687,2023-08-16,2023-08-22,7,"fusion, world music",16-08
+137,Boombastic Festival Alicante,Área 12,Carrer de Xàtiva,Alicante,Alicante,38.377604,-0.506809,2023-08-17,2023-08-19,3,"fusion, world music",17-08
+138,Rabolagartija Festival,Polideportivo Municipal de Villena,"La Solana, s/n",Villena,Alicante,38.631858,-0.846634,2023-08-17,2023-08-19,3,"fusion, world music",17-08
+139,Mediterránea Festival,Parc de la Festa,"Carrer Oliva, 3",Gandía,Valencia,38.964906,-0.175695,2023-08-18,2023-08-19,2,"fusion, world music",18-08
+140,Festival De La Luz,Boimorto,,Boimorto,A Coruña,43.030538,-8.144152,2023-08-25,2023-08-27,3,"fusion, world music",25-08
+141,Noches de la Maestranza,Plaza de Toros de La Maestranza,"P.º de Cristóbal Colón, 12",Sevilla,Sevilla,37.386015,-5.998406,2023-09-01,2023-09-16,16,"fusion, world music",01-09
+142,GrimalRock,GrimalRock,,Grimaldo,Cáceres,39.838650,-6.347661,2023-09-02,2023-09-02,1,"fusion, world music",02-09
+143,Festival Millenni / 2022,Varias localizaciones,,Barcelona,Barcelona,41.387579,2.175304,2021-10-02,2023-01-13,469,"fusion, world music",02-10
+144,Miranda Urban Festival,La Fábrica de Tornillos,"Calle La Rioja, 2",Miranda de Ebro,Burgos,42.682562,-2.942104,2023-02-03,2023-02-04,2,"fusion, world music",03-02
+145,Inverfest,Varias localizaciones,,Madrid,Madrid,40.416341,-3.702028,2023-01-06,2023-02-05,31,"fusion, world music",06-01
+146,Gazpatxo Rock,Patio Escuelas,"Doctor Manuel Romaní, s/n",Ayora,Valencia,39.061341,-1.062203,2023-02-10,2023-02-11,2,"fusion, world music",10-02
+147,40 Minutu Rock,Landako Gunea,"Landako Etorbidea, 6",Durango,Vizcaya,43.171465,-2.630598,2023-02-25,2023-02-25,1,"fusion, world music",25-02
+148,Pirata Fallas,Jardines de Viveros,"Carrer de Cavanilles, 1",Valencia,Valencia,39.480593,-0.367742,2023-03-02,2023-03-02,1,"fusion, world music",02-03
+149,Granada 100% Mujer,Palacio Quinta Alegre,"Av. de Cervantes, 27",Granada,Granada,37.164002,-3.587776,2023-03-11,2023-03-11,1,"fusion, world music",11-03
+150,Live Las Ventas,Plaza de Toros de Las Ventas,"C. de Alcalá, 237",Madrid,Madrid,40.432147,-3.663283,2023-02-04,2023-03-18,43,"fusion, world music",04-02
+151,Iboga Rave Madrid,Sala La Riviera,"P.º Bajo de la Virgen del Puerto, S/N",Madrid,Madrid,40.413007,-3.722130,2023-03-18,2023-03-18,1,"fusion, world music",18-03
+152,Senior Festival,Plaza de la Música,C.C. las Arenas,Las Palmas de Gran Canaria,Las Palmas,28.129957,-15.450189,2023-03-18,2023-03-19,2,"fusion, world music",18-03
+153,Alabordaje Fest,Pabellón De La Cantábrica,"Parque de la Cantábrica, C. la Industria, 45",Astillero,Cantabria,43.398179,-3.817287,2023-03-25,2023-03-25,1,"fusion, world music",25-03
+154,Primavera Trompetera,Circuito de Jerez,"Carretera de Arcos-Jerez de la Frontera, Km 10",Jerez de la Frontera,Cádiz,36.709350,-6.034155,2023-03-30,2023-04-01,3,"fusion, world music",30-03
+155,Minifestival de Música Independiente,Casino de Hostafrancs,"Carrer del Rector Triadó, 53",Barcelona,Barcelona,41.377831,2.143197,2023-02-25,2023-02-25,1,"indie, pop",25-02
+156,Madrid Popfest,Sala Galileo Galilei,"Calle de Galileo, 100",Madrid,Madrid,40.438472,-3.709795,2023-03-03,2023-03-04,2,"indie, pop",03-03
+157,Horteralia Madrid,IFEMA,"Av. del Partenón, 5",Madrid,Madrid,40.467845,-3.617305,2023-03-18,2023-03-18,1,"indie, pop",18-03
+158,Festival Ochentero Sierra de Cádiz,Plaza de toros cubierta de El Bosque,"Av Diputacion, 2A",El Bosque,Cádiz,36.757664,-5.510910,2023-03-18,2023-03-18,1,"indie, pop",18-03
+159,La Noche de Cadena 100 (2023),WiZink Center,"Av. de Felipe II, s/n",Madrid,Madrid,40.423951,-3.671837,2023-03-18,2023-03-18,1,"indie, pop",18-03
+160,Polar Sound Festival,Estación de Baqueira-Beret,"Calle Perimetrau, 3",Baqueira,Lleida,42.699753,0.929377,2023-03-24,2023-03-25,2,"indie, pop",24-03
+161,B·Series,La Nau,"Carrer d'Àlaba, 30",Barcelona,Barcelona,41.394315,2.197004,2023-02-25,2023-03-31,35,"indie, pop",25-02
+162,Festival Strenes,Teatro de Girona,"Plaça del Vi, 1",Girona,Girona,41.982969,2.825133,2023-03-31,2023-05-13,44,"indie, pop",31-03
+163,Lets Festival,Sala Salamandra,"Avinguda del Carrilet, 235",L'Hospitalet de Llobregat,Barcelona,41.360169,2.109380,2023-03-03,2023-04-01,30,"indie, pop",03-03
+164,Sound Isidro,Varias localizaciones,,Madrid,Madrid,40.412126,-3.697799,2023-04-01,2023-05-31,61,"indie, pop",01-04
+165,Indiferente Festival,Palacio de Festivales de Cantabria,C/ Gamazo s/n,Santander,Cantabria,43.462405,-3.789704,2023-04-01,2023-04-01,1,"indie, pop",01-04
+166,Sansan Festival,Ciudad de los Festivales,"Carretera N-340, kilómetro 986,300",Benicássim,Castellón,40.048257,0.048913,2023-04-06,2023-04-08,3,"indie, pop",06-04
+167,Microsonidos,Varias localizaciones,,Murcia,,37.992050,-1.125357,2023-02-03,2023-04-07,64,"indie, pop",03-02
+168,Barcelona Psych Fest,Sala Upload,"Av. Francesc Ferrer i Guàrdia, 13",Barcelona,Barcelona,41.368178,2.146969,2023-04-14,2023-04-15,2,"indie, pop",14-04
+169,Los 40 Primavera Pop,WiZink Center,"Av. Felipe II, s/n",Madrid,Madrid,40.423886,-3.671837,2023-04-14,2023-04-14,1,"indie, pop",14-04
+170,Gijón Sound Festival,Varias localizaciones,,Gijón,Asturias,43.531407,-5.661221,2023-04-21,2023-04-23,3,"indie, pop",21-04
+171,Festes de Primavera L'Hospitalet,La Farga,Av. de Josep Tarradellas i Joan,L'Hospitalet de Llobregat,Barcelona,41.363282,2.104762,2023-04-21,2023-04-22,2,"indie, pop",21-04
+172,Las Noches del Malecón,La Fica,"Diseminado Primero Mayo, 19",Murcia,Murcia,37.983784,-1.110520,2023-04-21,2023-09-16,149,"indie, pop",21-04
+173,Cruilla de Primavera,Sala Apolo,"Carrer Nou de la Rambla, 113",Barcelona,Barcelona,41.374436,2.169626,2023-03-10,2023-04-22,44,"indie, pop",10-03
+174,Vibra Mahou Fest Gijón,Recinto Ferial Luis Adaro,"Paseo Dr. Fleming, 481",Gijón,Asturias,43.538827,-5.636083,2023-04-22,2023-04-22,1,"indie, pop",22-04
+175,Festival Al-Andalus,Recinto Piscina Municipal,"Av. la Fuensanta, s/n",Pizarra,Málaga,36.769938,-4.709012,2023-04-22,2023-04-22,1,"indie, pop",22-04
+176,Festival Ebroclub,La Fábrica de Tornillos,La Rioja 2,Miranda de Ebro,Burgos,42.682562,-2.942104,2023-04-28,2023-04-29,2,"indie, pop",28-04
+177,FiV,Plaza de la Constitución,Plaza de la Constitución,Vilalba,Lugo,43.297679,-7.680838,2023-04-28,2023-04-30,3,"indie, pop",28-04
+178,Warm Up Festival,Recinto la Fica,"Diseminado Primero Mayo, 19",Murcia,Murcia,37.983635,-1.109828,2023-04-29,2023-04-30,2,"indie, pop",29-04
+179,Hurra Romería,Aceñas de Cabañales,"Plaza Carros, 22",Zamora,Zamora,41.498502,-5.746079,2023-04-29,2023-04-29,1,"indie, pop",29-04
+180,VID Festival,Auditorio Municipal,"Av. de los Deportistas, s/n",Daimiel,Ciudad Real,39.075010,-3.604159,2023-04-29,2023-04-29,1,"indie, pop",29-04
+181,A la LLum de la Lluna,Monasterio de Sant Miquel dels Reis,"Avinguda de la Constitució, 284",Valencia,Valencia,39.499570,-0.370059,2023-05-05,2023-06-02,29,"indie, pop",05-05
+182,Primavera Aspesuena,Auditorio Alfredo Kraus,"Calle Barranco, 44-66",Aspe,Alicante,38.342824,-0.770475,2023-05-06,2023-05-06,1,"indie, pop",06-05
+183,Fa Ce La Fest,Exterior Auditorio Gustavo Freire,"Parque da Milagrosa, Av. de A Coruña, s/n",Lugo,Lugo,43.022031,-7.562016,2023-05-11,2023-05-13,3,"indie, pop",11-05
+184,Fiestas de Rivas,Auditorio Miguel Ríos,"Paseo Alicia Alonso, s/n",Rivas-Vaciamadrid,Madrid,40.345677,-3.513340,2023-05-11,2023-05-13,3,"indie, pop",11-05
+185,Ritmo Festival,Paraje Natural Ermita de los Tres Juanes,,Atarfe,Granada,37.236180,-3.687694,2023-05-12,2023-05-13,2,"indie, pop",12-05
+186,Fulanita Fest,Marenostrum Fuengirola,,Fuengirola,Málaga,36.524777,-4.628699,2023-05-13,2023-05-13,1,"indie, pop",13-05
+187,Marenostrum Fuengirola,Marenostrum Fuengirola,,Fuengirola,Málaga,36.525226,-4.627776,2023-05-13,2023-08-19,99,"indie, pop",13-05
+188,Mallorca Live Festival,Recinto Mallorca Live (Antiguo Aqualand),Carretera Cala Figuera S/N,Calvià,Islas Baleares,39.505018,2.521212,2023-05-18,2023-05-20,3,"indie, pop",18-05
+189,Interestelar Sevilla,Centro Andaluz de Arte Contemporáneo,"Avda. Américo Vespucio, 2",Sevilla,Sevilla,37.398801,-6.008062,2023-05-19,2023-05-20,2,"indie, pop",19-05
+190,Embassa't,Amfiteatre Parc Catalunya (Sabadell),"Av. d'Andreu Nin, 45",Sabadell,Barcelona,41.551304,2.090359,2023-05-19,2023-05-20,2,"indie, pop",19-05
+191,Murmura Festival,Varias ubicaciones,,Alboloduy,Almería,37.032703,-2.620618,2023-05-19,2023-05-21,3,"indie, pop",19-05
+192,Esmorga Fest,Praza da Vila,"Rúa Matías López, 38",Sarria,Lugo,42.779311,-7.413465,2023-05-19,2023-05-20,2,"indie, pop",19-05
+193,Deleste Festival,Jardins de Vivers,"Carrer de Cavanilles, 1",Valencia,Valencia,39.465383,-0.360789,2023-05-19,2023-05-21,3,"indie, pop",19-05
+194,"Oh, See! Fest",Auditorio Municipal de Málaga,"Calle Paquiro, 9",Málaga,Málaga,36.698638,-4.465795,2023-05-26,2023-05-27,2,"indie, pop",26-05
+195,Spring Festival,Multiespacio Rabasa,Carrer de Xàtiva,Alicante,Alicante,38.376931,-0.507399,2023-05-26,2023-05-27,2,"indie, pop",26-05
+196,Murcia On,Plaza de Toros de Murcia,"Rda. de Garay, 48",Murcia,Murcia,37.985238,-1.122537,2023-05-26,2023-10-14,142,"indie, pop",26-05
+197,Guadalajara Vive Fest,Fuente de la Niña,"P.º Francisco Aritmendi, 5",Guadalajara,Guadalajara,40.626722,-3.151904,2023-05-26,2023-05-27,2,"indie, pop",26-05
+198,San Miguel Tribu Festival,Jardines de La Parrala,"C. las Infantas, 1",Burgos,Burgos,42.337611,-3.724000,2023-05-26,2023-05-28,3,"indie, pop",26-05
+199,Lo Esencial Music Festival,Palacio Vistalegre Arena,"C. de Matilde Hernández, s/n",Madrid,Madrid,40.386043,-3.738613,2023-05-26,2023-05-26,1,"indie, pop",26-05
+200,Morrison Fest,Autocine de Madrid,"C. de la Isla de Java, 2",Madrid,Madrid,40.486218,-3.677778,2023-05-27,2023-05-27,1,"indie, pop",27-05
+201,Primavera Sound Barcelona,Parc del Fòrum,"Rambla de Prim, 1",Barcelona,Barcelona,41.411192,2.223315,2023-06-01,2023-06-03,3,"indie, pop",01-06
+202,Montgorock (MRK Xàbia Festival),Recinto La Fontana,,Xàbia (Jávea),Alicante,38.777940,0.185012,2023-06-02,2023-06-03,2,"indie, pop",02-06
+203,Block Party Arganzuela,Explanada Multiusos Madrid Rio,Autop. de Circunvalación M-30,Madrid,Madrid,40.394597,-3.701394,2023-06-03,2023-06-03,1,"indie, pop",03-06
+204,Barbeira SeaSon Fest,Parque da Palma,"Av. Ramón y Cajal, 12",Baiona,Pontevedra,42.122004,-8.850654,2023-06-07,2023-06-11,5,"indie, pop",07-06
+205,Primavera Sound Madrid,Ciudad del Rock,,Arganda del Rey,Madrid,40.260288,-3.405719,2023-06-08,2023-06-10,3,"indie, pop",08-06
+206,Palencia Sonora,Parque del Sotillo,Sotillo de los Canónigos,Palencia,Palencia,42.010974,-4.541514,2023-06-08,2023-06-11,4,"indie, pop",08-06
+207,Festival de Les Arts,Ciudad de las Artes y las Ciencias de Valencia,Av. del Profesor López Piñero,Valencia,Valencia,39.455863,-0.355033,2023-06-09,2023-06-10,2,"indie, pop",09-06
+208,Sonidos Líquidos - Malvasía Volcánica Weekend,Bodegas La Geria,Carretera de La Geria km.19,La Geria,Las Palmas,28.969307,-13.714773,2023-06-09,2023-06-10,2,"indie, pop",09-06
+209,Noches del Botánico,UCM-Real Jardín Botánico Alfonso XIII,"Av. Complutense, s/n, 12",Madrid,Madrid,40.448147,-3.727777,2023-06-09,2023-07-30,52,"indie, pop",09-06
+210,Área 12,Multiespacio Rabasa,Carrer de Xàtiva,Alicante,Alicante,38.376940,-0.507410,2023-06-10,2023-09-02,85,"indie, pop",10-06
+211,Sónar,Sónar de día - Fira Montjuïc,"Avinguda Rius i Taulet, s/n",Barcelona,Barcelona,41.372491,2.153574,2023-06-15,2023-06-17,3,"indie, pop",15-06
+212,O Son do Camiño,Parque Monte Do Gozo,Parque Monte do Gozo,Santiago de Compostela,A Coruña,42.886102,-8.496831,2023-06-15,2023-06-17,3,"indie, pop",15-06
+213,Magnífic Fest,"Recinte Firal ""Les Firetes""",Cami Municipal de Grenyana,Lleida,Lleida,41.617861,0.639855,2023-06-15,2023-06-18,4,"indie, pop",15-06
+214,Festival De Los Sentidos,Recinto Ferial,Avenida de Castilla-La Mancha 2,La Roda,Albacete,39.201427,-2.156823,2023-06-16,2023-06-18,3,"indie, pop",16-06
+215,Es Jardí,Antiguo Aquapark de Càlvia,,Calvià,Islas Baleares,39.505034,2.521191,2023-06-16,2023-08-06,52,"indie, pop",16-06
+216,Cosquín Rock España,Marenostrum Fuengirola,"Calle Tartesios, s/n",Fuengirola,Málaga,36.523588,-4.629278,2023-06-17,2023-06-17,1,"indie, pop",17-06
+217,Love the 90’s Madrid,IFEMA - Feria de Madrid,"Av. del Partenón, Nº 5",Madrid,Madrid,40.467454,-3.616905,2023-06-17,2023-06-17,1,"indie, pop",17-06
+218,El Bosque Sonoro,El Bosque Sonoro,,Mozota,Zaragoza,41.484627,-1.070002,2023-06-17,2023-06-25,9,"indie, pop",17-06
+219,101 Music Festival Costa del Sol,Plaza de Toros de la Malagueta,"P.º Reding, 8",Málaga,Málaga,36.720728,-4.410362,2023-06-17,2023-09-02,78,"indie, pop",17-06
+220,Starlite Marbella,Auditorio La Cantera de Nagüeles,"Calle Albinoni, s/n",Marbella,Málaga,36.532709,-4.921188,2023-06-21,2023-09-02,74,"indie, pop",21-06
+221,Tomavistas,Parque Enrique Tierno Galván,"C. Meneses, 4",Madrid,Madrid,40.390045,-3.683845,2023-06-22,2023-06-24,3,"indie, pop",22-06
+222,Antorchas Festival,Recinto Ferial,,Albacete,Albacete,38.996941,-1.868341,2023-06-22,2023-06-24,3,"indie, pop",22-06
+223,City Festival Huelva,Parque Alonso Sánchez,"Cta. de la Tres Caídas, 11",Huelva,Huelva,37.258203,-6.947381,2023-06-22,2023-06-24,3,"indie, pop",22-06
+224,Mugacu Fest,Ruinas de la Iglesia de San Pedro,"Calle de Navarro Villoslada, 30",Viana,Navarra,42.514739,-2.373436,2023-06-23,2023-06-25,3,"indie, pop",23-06
+225,Love the Tuenti's,IFEMA. Feria de Madrid,"Av. Partenón, Nº 5",Madrid,Madrid,40.464254,-3.616390,2023-06-24,2023-06-24,1,"indie, pop",24-06
+226,Zorrilla’s Fest,Plaza de la Universidad,,Valladolid,Valladolid,41.652994,-4.722167,2023-06-24,2023-06-24,1,"indie, pop",24-06
+227,My Fest Cantabria Infinita,Campos De Sport De El Sardinero,"C/ Real Racing Club, s/n",Santader,Cantabria,43.476328,-3.793290,2023-06-24,2023-06-24,1,"indie, pop",24-06
+228,Música en Grande,Campos del Malecón,"Manuel Pondal, s/n",Torrelavega,Cantabria,43.350226,-4.062688,2023-06-28,2023-07-01,4,"indie, pop",28-06
+229,Guitar BCN,Varias localizaciones,,Barcelona,Barcelona,41.385566,2.175531,2023-01-27,2023-06-29,154,"indie, pop",27-01
+230,Vida Festival,La Masia d’en Cabanyes,Camí Ral,Vilanova i la Geltrú,Barcelona,41.241154,1.715761,2023-06-29,2023-07-01,3,"indie, pop",29-06
+231,Observatorio Festival,Auditorio Natural,,Balboa,León,42.706389,-6.923056,2023-06-29,2023-07-01,3,"indie, pop",29-06
+232,León Vive Festival,"Campo Hípico Municipal ""El Parque""","P.º el Parque, 8",León,León,42.584180,-5.569317,2023-06-29,2023-06-30,2,"indie, pop",29-06
+233,Conexión Valladolid,Antigua Hípica,Carretera de Rueda 232,Pinar de Antequera,Valladolid,41.597723,-4.757922,2023-06-30,2023-07-01,2,"indie, pop",30-06
+234,Polifonik Sound,Recinto Ferial de Barbastro,Avda Estación s/n,Barbastro,Huesca,42.032002,0.128556,2023-06-30,2023-07-01,2,"indie, pop",30-06
+235,Oasis Sound Festival,Recinto Oasis Sound,Camino pozo de los carneros,La Solana,Ciudad Real,38.933504,-3.265487,2023-06-30,2023-07-01,2,"indie, pop",30-06
+236,Ojeando Festival,Ojén,Calle Colegio s/n,Ojén,Málaga,36.565444,-4.855313,2023-06-30,2023-07-01,2,"indie, pop",30-06
+237,Vive Nigrán,Campo de fútbol Lourido,"Rúa Lourido Beiramar, 27",Nigrán,Pontevedra,42.124631,-8.821029,2023-06-30,2023-07-01,2,"indie, pop",30-06
+238,Vesu Festival,Fábrica de Armas de la Vega,Calle Marcelino Fernández,Oviedo,Asturias,43.365383,-5.837721,2023-06-30,2023-07-02,3,"indie, pop",30-06
+239,Festival de la Porta Ferrada,Spai Port,"Z. Port, 1",San Feliu de Guíxols,Girona,41.779609,3.038288,2023-06-30,2023-08-20,52,"indie, pop",30-06
+240,Concert Music Festival,Concert Music Festival,Calle Avenida,Chiclana de la Frontera (poblado de Sancti Petri),,36.394005,-6.207314,2023-07-01,2023-08-31,62,"indie, pop",01-07
+241,Bahía Sound,Centro Comercial Bahía Sur,"Avda. Caño Herrera, S/N",San Fernando,Cádiz,36.470933,-6.208702,2023-07-01,2023-08-19,50,"indie, pop",01-07
+242,Concerts de Vivers,Jardines del Real o Viveros,"Carrer de Cavanilles, 1",Valencia,Valencia,39.480281,-0.367696,2023-07-01,2023-07-23,23,"indie, pop",01-07
+243,Espazo Fest,Pazo de Cea,"Camiño de Cea, 1",Nigrán,Pontevedra,42.148642,-8.799620,2023-07-01,2023-08-31,62,"indie, pop",01-07
+244,Sotogrande Music Festival,Santa María Polo Club,Autovía del Mediterráneo,Sotogrande,Cádiz,36.294928,-5.282021,2023-07-01,2023-09-15,77,"indie, pop",01-07
+245,Cruilla,Parc del Fòrum,"Muelle de la Marina Seca, C/ De la Pau, 12",Sant Adrià de Besòs,Barcelona,41.410693,2.226341,2023-07-05,2023-07-08,4,"indie, pop",05-07
+246,Bilbao BBK Live,Kobetamendi,Calle del Monte Cobetas,Bilbao,Vizcaya,43.258276,-2.964163,2023-07-06,2023-07-08,3,"indie, pop",06-07
+247,Mad Cool Festival,La Ciudad de la Música,Calle Laguna Dalga,Colonia Marconi (Villaverde),Madrid,40.329834,-3.711200,2023-07-06,2023-07-08,3,"indie, pop",06-07
+248,Brisa Festival,Plaza de Toros de la Malagueta,"P.º Reding, 8",Málaga,Málaga,36.720732,-4.410367,2023-07-06,2023-07-22,17,"indie, pop",06-07
+249,Planeta Sound,Estadio Municipal Colomán Trabado,"Av. de Asturias, 18",Ponferrada,León,42.554785,-6.600381,2023-07-07,2023-07-09,3,"indie, pop",07-07
+250,Cabaret Festival Roquetas de Mar,Plaza de Toros,"Av. de la Aduana, 15",Roquetas de Mar,Almería,36.768180,-2.611721,2023-07-07,2023-08-16,41,"indie, pop",07-07
+251,Dale Argentina Fest,Poble Espanyol,"Av. Francesc Ferrer i Guàrdia, 13",Barcelona,Barcelona,41.368822,2.148256,2023-07-07,2023-07-11,5,"indie, pop",07-07
+252,Isla Bonita Love Festival,Puerto de Tazacorte,,"['Tazacorte', 'La Palma']",Santa Cruz de Tenerife,28.644423,-17.943800,2023-07-08,2023-07-08,1,"indie, pop",08-07
+253,Alma Festival Jardins Pedralbes,Poble Espanyol,"Av. de Francesc Ferrer i Guàrdia, 13",Barcelona,Barcelona,41.368822,2.148256,2023-07-10,2023-07-27,18,"indie, pop",10-07
+254,FIB,Benicàssim,"Carretera N-340, kilómetro 986,300",Benicàssim,Castellón,40.048068,0.047872,2023-07-13,2023-07-16,4,"indie, pop",13-07
+255,PortAmérica,Fábrica Azucreira de Portas,"Rúa Estacion, 34",Caldas de Reis,Pontevedra,42.590436,-8.655596,2023-07-13,2023-07-15,3,"indie, pop",13-07
+256,Fárdelej Festival Rioja Live,Arnedo,,Arnedo,La Rioja,42.225735,-2.102074,2023-07-14,2023-07-15,2,"indie, pop",14-07
+257,Cap Roig Festival,Jardí Botànic de Cap Roig,"Camí del Rus, s/n",Calella de Palafrugell,Girona,41.877230,3.177388,2023-07-14,2023-08-19,37,"indie, pop",14-07
+258,Barranco Fest,Plaza de Toros de Fitero,"Calle Calatrava, 14",Fitero,Navarra,42.056383,-1.855917,2023-07-20,2023-07-22,3,"indie, pop",20-07
+259,No Sin Música,Muelle Ciudad del Puerto de Cádiz,"Av. del Puerto, 307",Cadiz,Cádiz,36.531617,-6.291618,2023-07-21,2023-07-22,2,"indie, pop",21-07
+260,Atlantic Fest,Playa de A Concha,,Vilagarcía de Arousa,Pontevedra,42.605071,-8.767744,2023-07-21,2023-07-23,3,"indie, pop",21-07
+261,Sinsal Esencial SON Estrella Galicia,Isla de San Simón,,Redondela,Pontevedra,42.307258,-8.628943,2023-07-21,2023-07-23,3,"indie, pop",21-07
+262,Sons del Món,Ciutadella de Roses,Av. de Rhode s/n,Roses,Girona,42.265686,3.170543,2023-07-21,2023-08-07,18,"indie, pop",21-07
+263,Universal Music Festival,Teatro Real,"Plaza de Isabel II, s/n",Madrid,Madrid,40.418299,-3.710589,2023-07-25,2023-07-30,6,"indie, pop",25-07
+264,Nits de Vivers,Jardines del Real o Viveros,"Carrer de Cavanilles, 1",Valencia,Valencia,39.480281,-0.367696,2023-07-26,2023-08-05,11,"indie, pop",26-07
+265,Low Festival,Ciudad Deportiva Guillermo Amor,Avenida de la Ciudad Deportiva,Benidorm,Alicante,38.546691,-0.138434,2023-07-28,2023-07-30,3,"indie, pop",28-07
+266,Impacto Fest,Las Ventas de Albares,"C. la Corredera, 1",Torre del Bierzo,León,42.603693,-6.391242,2023-07-28,2023-07-30,3,"indie, pop",28-07
+267,MoboFest Music Festival,Parc Municipal n'Hereveta,"Camí de Marina, 29",Porreres,Islas Baleares,39.517986,3.020083,2023-07-28,2023-07-29,2,"indie, pop",28-07
+268,17º Ribeira Sacra Festival,Parador de Monforte de Lemos,Plaza Luis de Góngora y Argote,Monforte de Lemos,Lugo,42.523862,-7.510486,2023-07-28,2023-07-30,3,"indie, pop",28-07
+269,Festival Jardins Terramar,Parque Terramar,Carrer Cristóbal Colón,Sitges,Barcelona,41.228556,1.785482,2023-07-28,2023-08-10,14,"indie, pop",28-07
+270,Fan Futura Fest,Polideportivo San Javier,Explanada Mariano Rojas,San Javier,Murcia,37.810538,-0.829017,2023-07-28,2023-07-29,2,"indie, pop",28-07
+271,Idilic Festival,Espai Masia Bas,,Platja d'Aro,Girona,41.818816,3.059016,2023-07-28,2023-07-29,2,"indie, pop",28-07
+272,Morriña Festival,Muelle de Batería,,A Coruña,A Coruña,43.365874,-8.402886,2023-07-28,2023-07-29,2,"indie, pop",28-07
+273,Locos por la Música (Fuengirola),Marenostrum Fuengirola,,Fuengirola,Málaga,36.524777,-4.628699,2023-07-29,2023-07-29,1,"indie, pop",29-07
+274,Arenal Sound,Playa el Arenal,Avinguda de la Mediterrània s/n,Burriana,Castellón,39.864638,-0.066583,2023-08-01,2023-08-06,6,"indie, pop",01-08
+275,Cabaret Festival Fuengirola,Marenostrum Fuengirola,,Fuengirola,Málaga,36.524777,-4.628699,2023-08-01,2023-08-31,31,"indie, pop",01-08
+276,Santander Music,Campa de La Magdalena,Calle Juan de Borbón,Santander,Cantabria,43.468417,-3.772607,2023-08-03,2023-08-05,3,"indie, pop",03-08
+277,Prestoso Fest,Las Bazaniellas,,,Asturias,43.157850,-6.540406,2023-08-03,2023-08-05,3,"indie, pop",03-08
+278,Brizna Festival,El Cubo de Rustik,,Ayerbe,Huesca,42.277741,-0.684980,2023-08-04,2023-08-06,3,"indie, pop",04-08
+279,Festival Amante,Recinto Festival Amante (junto a campo de fútbol),"Camino a Borja, s/n",Borja,Zaragoza,41.833528,-1.520642,2023-08-04,2023-08-06,3,"indie, pop",04-08
+280,Luna Sur Festival,Marenostrum Fuengirola,Paseo Marítimo Rey de España,Fuengirola,Málaga,36.523588,-4.629278,2023-08-05,2023-08-05,1,"indie, pop",05-08
+281,Supersónica Festival,Plaza Mayor,,Valencia de Don Juan,León,42.293553,-5.520631,2023-08-05,2023-08-06,2,"indie, pop",05-08
+282,Sonorama Ribera,Recinto Ferial,Calle de Valladolid,Aranda de Duero,Burgos,41.670567,-3.700037,2023-08-09,2023-08-13,5,"indie, pop",09-08
+283,FiestoRon,Recinto Ferial de Arucas,"S/N, Ctra. del Lomo",Arucas,Las Palmas,28.117912,-15.521761,2023-08-11,2023-08-12,2,"indie, pop",11-08
+284,Vive la Feria Torrelavega,Recinto Ferial La Lechera,"Av. Rochefort Sur Mere, 41",Torrelavega,Cantabria,43.355016,-4.055758,2023-08-11,2023-08-13,3,"indie, pop",11-08
+285,Cabaret Festival El Puerto de Santa María,Real Plaza de Toros,"Pl. de Elías Ahuja, s/n",El Puerto de Santa María,Cádiz,36.596787,-6.232767,2023-08-15,2023-08-20,6,"indie, pop",15-08
+286,Cooltural Fest,Feria de Almería,"Cam. Jaúl Bajo, nº4",Almería,Almería,36.832182,-2.429770,2023-08-17,2023-08-20,4,"indie, pop",17-08
+287,SummerFest Cerdanya,Camí de Sant Marc,,Puigcerdà,Girona,42.419370,1.930740,2023-08-17,2023-08-25,9,"indie, pop",17-08
+288,Mediterránea Festival,Parc de la Festa,"Carrer Oliva, 3",Gandía,Valencia,38.964906,-0.175695,2023-08-18,2023-08-19,2,"indie, pop",18-08
+289,Phe Festival,Estadio Municipal El Peñón,"Calle Luis Lavaggi, 2",Puerto de la Cruz,Santa Cruz de Tenerife,28.415701,-16.556869,2023-08-18,2023-08-19,2,"indie, pop",18-08
+290,Esférica Rioja Alavesa,Bodegas Ysios,Camino de La Hoya s/n,La Hoya,Álava,42.569012,-2.590714,2023-08-18,2023-08-20,3,"indie, pop",18-08
+291,Sierra Nevada por Todo lo Alto,Plaza de Andalucía,,"['Padrollano', 'Monachil']",Granada,37.093023,-3.399145,2023-08-18,2023-08-19,2,"indie, pop",18-08
+292,CanelaParty,Recinto Ferial de Torremolinos,Autovía de Circunvalación de Málaga,Torremolinos,Málaga,36.620884,-4.511411,2023-08-23,2023-08-26,4,"indie, pop",23-08
+293,Contempopránea,Baluartes de San Blás,"Av. Villanueva, 2A",Olivenza,Badajoz,38.683839,-7.096774,2023-08-24,2023-08-26,3,"indie, pop",24-08
+294,Festival De La Luz,Boimorto,,Boimorto,A Coruña,43.030538,-8.144152,2023-08-25,2023-08-27,3,"indie, pop",25-08
+295,Random Fest,"['Escenario Castillo Sohail', 'Marenostrum Fuengirola']","C. Tartesios, s/n",Fuengirola,Málaga,36.525329,-4.628828,2023-08-25,2023-08-25,1,"indie, pop",25-08
+296,Ebrovisión,Varios Recintos,,Miranda de Ebro,Burgos,42.693542,-2.914177,2023-08-31,2023-09-03,4,"indie, pop",31-08
+297,Cala Mijas Festival,Recinto Cala Mijas,Av. Puerto de los Gatos de Cortijo Colorado,Mijas,Málaga,36.512482,-4.696248,2023-08-31,2023-09-02,3,"indie, pop",31-08
+298,Gigante Festival,Huerta del Obispo,"Cardenal Sandoval y Rojas, s/n",Alcalá de Henares,Madrid,40.481626,-3.372306,2023-08-31,2023-09-03,4,"indie, pop",31-08
+299,Poetas del Rock Cuenca,"Estadio ""La Fuensanta""","Av. de los Alfares, 17",Cuenca,Cuenca,40.075709,-2.145827,2023-08-31,2023-08-31,1,"indie, pop",31-08
+300,Osa do Mar,Praza do Concello,"Rúa de Eijo Garay, 20",Burela,Lugo,43.659557,-7.358206,2023-09-01,2023-09-02,2,"indie, pop",01-09
+301,Natural Sonora,Campo de fútbol,"Ctra. Jarandilla, 28",Navalmoral de la Mata,Cáceres,39.897691,-5.544153,2023-09-01,2023-09-02,2,"indie, pop",01-09
+302,Noches de la Maestranza,Plaza de Toros de La Maestranza,"P.º de Cristóbal Colón, 12",Sevilla,Sevilla,37.386015,-5.998406,2023-09-01,2023-09-16,16,"indie, pop",01-09
+303,Cabaret Festival Latino Sevilla,Recinto Hípico,"s/n, C. Haya",Mairena del Aljarafe,Sevilla,37.346978,-6.053660,2023-09-02,2023-09-14,13,"indie, pop",02-09
+304,1001 Músicas de la Alhambra (Septiembre en el Generalife),Teatro del Generalife,"P.º del Generalife, 1B",Granada,Granada,37.176099,-3.584783,2023-09-02,2023-09-23,22,"indie, pop",02-09
+305,Cabaret Festival Mairena del Aljarafe,Recinto Hípico,"s/n, C. Haya",Mairena del Aljarafe,Sevilla,37.346978,-6.053660,2023-09-02,2023-09-30,29,"indie, pop",02-09
+306,Vive Latino Zaragoza,Recinto Expo,,Zaragoza,Zaragoza,41.667462,-0.901319,2023-09-08,2023-09-09,2,"indie, pop",08-09
+307,Nachiños Fest,As Cabazas,Carretera Covas -San Jorge,Covas,A Coruña,43.539278,-8.294077,2023-09-08,2023-09-09,2,"indie, pop",08-09
+308,Salamanca Vive Festival,Espacio Más,"N-501, km 88",Salamanca,Salamanca,40.948075,-5.585089,2023-09-08,2023-09-08,1,"indie, pop",08-09
+309,Festival La Plaza Santander,Plaza de Toros de Santander,"Calle Montevideo, 6",Santander,Cantabria,43.457029,-3.826080,2023-09-13,2023-09-17,5,"indie, pop",13-09
+310,Granada Sound,Cortijo del Conde,Paseo Cortijo del Conde,Granada,Granada,37.202674,-3.652107,2023-09-15,2023-09-16,2,"indie, pop",15-09
+311,Festival Actual,Riojafórum,"Calle San Millán, 23 - 25",Logroño,La Rioja,42.471594,-2.430232,2023-01-02,2023-01-07,6,"indie, pop",02-01
+312,Festival SantasPascuas 2022/2023,Baluarte,Plaza del Baluarte s/n,Pamplona,Navarra,42.813733,-1.646608,2023-01-07,2023-01-07,1,"indie, pop",07-01
+313,F.E.A Festival (10º Aniversario),La Capsa],"Av. del Pare Andreu de Palma, 5",El Prat de Llobregat,Barcelona,41.329773,2.102823,2023-01-21,2023-01-21,1,"indie, pop",21-01
+314,NEU! Festival/2023,Varias localizaciones,,Girona,Girona,41.978667,2.821228,2022-11-26,2023-01-28,64,"indie, pop",26-11
+315,Benidorm Fest,Palacio de Deportes L'Illa de Benidorm,"Partida Salto del Agua, s/n",Benidorm,Alicante,38.549760,-0.119938,2023-01-31,2023-02-04,5,"indie, pop",31-01
+316,El Día de la Marmota,Centro Andaluz de Arte Contemporáneo,"Avenida de Américo Vespucio, 2",Sevilla,Sevilla,37.398528,-6.007859,2023-02-04,2023-02-05,2,"indie, pop",04-02
+317,Inverfest,Varias localizaciones,,Madrid,Madrid,40.416341,-3.702028,2023-01-06,2023-02-05,31,"indie, pop",06-01
+318,Emac.,"Centro Municipal de Cultura ""La Mercé""","Plaza de la Mercé, s/n",Borriana,Castellón,39.888263,-0.081518,2023-02-10,2023-02-12,3,"indie, pop",10-02
+319,Palma On Season Fest,Parc del Mar,Parc del Mar,Palma,Islas Baleares,39.565323,2.648738,2023-02-10,2023-02-12,3,"indie, pop",10-02
+320,Ferrish Fest,Sala La Mirona,Carrer d'Amnistia Internacional,Salt,Girona,41.968425,2.773404,2023-02-18,2023-02-18,1,"indie, pop",18-02
+321,Estaciones Sonoras,Patio Antiguo Colegio,"Calle César, 33",Cascante,Navarra,41.998074,-1.682655,2023-02-24,2023-09-30,219,"indie, pop",24-02
+322,Mallorca Live Nights/2023,Es Gremi,"Carrer Gremi de Porgadors, 16",Palma de Mallorca,Islas Baleares,39.596959,2.670107,2022-09-10,2023-02-25,169,"indie, pop",10-09
+323,Boquerón Primavera Festival,Autocine Málaga Cesur FP,Ctra. de la Azucarera Intelhorce,Málaga,Málaga,36.691877,-4.488300,2023-04-29,2023-04-29,1,musica urbana,29-04
+324,Fiestas de Rivas,Auditorio Miguel Ríos,"Paseo Alicia Alonso, s/n",Rivas-Vaciamadrid,Madrid,40.345677,-3.513340,2023-05-11,2023-05-13,3,musica urbana,11-05
+325,Urban Hood,Espacio Mas,"Polígono S, 3",Pelabravo,Salamanca,40.948071,-5.585078,2023-05-13,2023-05-13,1,musica urbana,13-05
+326,Ciruelas Music Festival,Campo de Fútbol de Valdivia,,Valdivia,Badajoz,39.031794,-5.710101,2023-05-13,2023-05-13,1,musica urbana,13-05
+327,Guadalajara Vive Fest,Fuente de la Niña,"P.º Francisco Aritmendi, 5",Guadalajara,Guadalajara,40.626722,-3.151904,2023-05-26,2023-05-27,2,musica urbana,26-05
+328,Kannasur Festival,Pabellón de la Navegación,"Camino de los Descubrimientos, 2",Sevilla,Sevilla,37.394232,-6.008062,2023-05-26,2023-05-28,3,musica urbana,26-05
+329,Alameda Festival,Polígono La Amarguilla,,Alameda,Málaga,37.212026,-4.651035,2023-06-02,2023-06-03,2,musica urbana,02-06
+330,Share Festival Barcelona,Parc del Fòrum,"Carrer de la Pau, 12",Sant Adrià de Besòs,Barcelona,41.411578,2.224560,2023-06-09,2023-06-10,2,musica urbana,09-06
+331,I Love Reggaeton Madrid,IFEMA,"Av. del Partenón, 5",Madrid,Madrid,40.467837,-3.617309,2023-06-10,2023-06-10,1,musica urbana,10-06
+332,Sónar,Sónar de día - Fira Montjuïc,"Avinguda Rius i Taulet, s/n",Barcelona,Barcelona,41.372491,2.153574,2023-06-15,2023-06-17,3,musica urbana,15-06
+333,O Son do Camiño,Parque Monte Do Gozo,Parque Monte do Gozo,Santiago de Compostela,A Coruña,42.886102,-8.496831,2023-06-15,2023-06-17,3,musica urbana,15-06
+334,Boombastic Festival Madrid,Auditorio Miguel Ríos,"P.º Alicia Alonso, s/n",Rivas-Vaciamadrid,Madrid,40.345497,-3.514166,2023-06-16,2023-06-17,2,musica urbana,16-06
+335,Animal Sound Festival,Recinto Ferial La Fica,"Diseminado Primero Mayo, 19",Murcia,Murcia,37.983615,-1.109834,2023-06-16,2023-06-17,2,musica urbana,16-06
+336,Oh My Gol! LaLiga Music Experience,Estadio Cívitas Metropolitano,"Av. de Luis Aragonés, 4",Madrid,Madrid,40.436234,-3.599567,2023-06-16,2023-06-16,1,musica urbana,16-06
+337,Boombastic Festival Canarias,Anexo Estadio de Gran Canaria,"C. Fondos de Segura, s/n",Las Palmas de Gran Canaria,Las Palmas,28.102238,-15.454372,2023-06-23,2023-06-24,2,musica urbana,23-06
+338,Open Festival Tomares,Parque Jardines del Conde,"Calle de la Fuente, 8",Tomares,Sevilla,37.374199,-6.045624,2023-06-23,2023-07-01,9,musica urbana,23-06
+339,Granada Latina Festival,Cortijo del Conde,Barrio Pt-Cc Cortijo del Conde,Granada,Granada,37.200651,-3.656157,2023-06-24,2023-06-24,1,musica urbana,24-06
+340,Sunsetland Festival,Recinto Ferial - La Fica,"Diseminado Primero Mayo, 19",Murcia,Murcia,37.983792,-1.112269,2023-06-24,2023-06-24,1,musica urbana,24-06
+341,My Fest Cantabria Infinita,Campos De Sport De El Sardinero,"C/ Real Racing Club, s/n",Santader,Cantabria,43.476328,-3.793290,2023-06-24,2023-06-24,1,musica urbana,24-06
+342,Big Sound Festival,Ciudad de las Artes y las Ciencias,"Av. del Professor López Piñero, 7",Valencia,Valencia,39.454884,-0.350511,2023-06-29,2023-07-01,3,musica urbana,29-06
+343,Holika Festival,,Cta. de La Catedral,Calahorra,La Rioja,42.297183,-1.957970,2023-06-29,2023-07-01,3,musica urbana,29-06
+344,León Vive Festival,"Campo Hípico Municipal ""El Parque""","P.º el Parque, 8",León,León,42.584180,-5.569317,2023-06-29,2023-06-30,2,musica urbana,29-06
+345,Puro Latino Fest Sevilla,Estadio Olímpico de La Cartuja,Isla de la Cartuja,Sevilla,Sevilla,37.417175,-6.004672,2023-06-30,2023-07-01,2,musica urbana,30-06
+346,Conexión Valladolid,Antigua Hípica,Carretera de Rueda 232,Pinar de Antequera,Valladolid,41.597723,-4.757922,2023-06-30,2023-07-01,2,musica urbana,30-06
+347,Oasis Sound Festival,Recinto Oasis Sound,Camino pozo de los carneros,La Solana,Ciudad Real,38.933504,-3.265487,2023-06-30,2023-07-01,2,musica urbana,30-06
+348,Festival Río Babel,Caja Mágica,"Cmo. de Perales, 23",Madrid,Madrid,40.368782,-3.684282,2023-06-30,2023-07-02,3,musica urbana,30-06
+349,Puro Latino Fest Madrid,Ciudad del Rock,,Arganda del Rey,Madrid,40.259655,-3.405773,2023-06-30,2023-07-01,2,musica urbana,30-06
+350,Salinas Sound Festival,Estadio Municipal Antonio Peroles,"Camino de los depósitos, s/n",Roquetas de Mar,Almería,36.752244,-2.629960,2023-06-30,2023-07-01,2,musica urbana,30-06
+351,Reggaeton Beach Festival (Tenerife),La Laguna,,,Santa Cruz de Tenerife,28.487002,-16.321406,2023-07-01,2023-07-02,2,musica urbana,01-07
+352,Reggaeton Beach Festival (Asturias),Centro Niemeyer,"Av. del Zinc, s/n",Avilés,Asturias,43.557366,-5.918369,2023-07-01,2023-07-02,2,musica urbana,01-07
+353,Bahía Sound,Centro Comercial Bahía Sur,"Avda. Caño Herrera, S/N",San Fernando,Cádiz,36.470933,-6.208702,2023-07-01,2023-08-19,50,musica urbana,01-07
+354,Sotogrande Music Festival,Santa María Polo Club,Autovía del Mediterráneo,Sotogrande,Cádiz,36.294928,-5.282021,2023-07-01,2023-09-15,77,musica urbana,01-07
+355,Weekend Beach Festival,Playa de Poniente,"Calle Faro Nuevo, 5",Torre del Mar,Málaga,36.732061,-4.099714,2023-07-05,2023-07-08,4,musica urbana,05-07
+356,Reggaeton Beach Festival (Benidorm),Estadio Municipal Guillermo Amor,"Av. Ciudad Deportiva, s/n",Benidorm,Alicante,38.547410,-0.138016,2023-07-08,2023-07-09,2,musica urbana,08-07
+357,Reggaeton Beach Festival (Marbella),Estadio Municipal San Pedro Alcántara,"Diseminado Poligono 27, 7",Marbella,Málaga,36.493323,-4.979060,2023-07-08,2023-07-09,2,musica urbana,08-07
+358,Pirata Beach Festival,Polígono Industrial Benieto,"Carrer dels Carrossers, 27",Gandia,Valencia,38.956917,-0.170496,2023-07-12,2023-07-15,4,musica urbana,12-07
+359,Boombastic Festival Asturias,Jardines Feriales de Llanera,Recinto Ferial de Llanera,Llanera,Asturias,43.430827,-5.864897,2023-07-13,2023-07-15,3,musica urbana,13-07
+360,Covaleda Fest,Campamento Juvenil Raso de Nava,"Paraje Raso de la Nava, s/n",Covaleda,Soria,41.937690,-2.909918,2023-07-13,2023-07-15,3,musica urbana,13-07
+361,Reggaeton Beach Festival (Mallorca),Poliesportiu Municipal Mateu Cañellas,"Avenida Alcudia, 0 S/N",Inca,Islas Baleares,39.727422,2.923222,2023-07-15,2023-07-16,2,musica urbana,15-07
+362,Latin Fest Valencia,Auditorio Marina Sur,,Valencia,Valencia,39.458307,-0.316668,2023-07-15,2023-07-15,1,musica urbana,15-07
+363,Zevra Festival,Playa de Cullera (Recinto Medusa Festival),"Plaça Numero 23, 96",Cullera,Valencia,39.156721,-0.244832,2023-07-21,2023-07-24,4,musica urbana,21-07
+364,Puro Latino Fest Torremolinos,Recinto Ferial de Torremolinos en Málaga,"Calle México, 3",Torremolinos,Málaga,36.632508,-4.504952,2023-07-21,2023-07-22,2,musica urbana,21-07
+365,Reggaeton Beach Festival (Barcelona),Playa del Forum,,Sant Adrià de Besòs,Barcelona,41.416567,2.231512,2023-07-22,2023-07-23,2,musica urbana,22-07
+366,Reggaeton Beach Festival (Madrid),Recinto Ifema Valdebebas,"Calle Prov Parque Valdebebas 5, 51",Madrid,Madrid,40.478088,-3.621772,2023-07-22,2023-07-23,2,musica urbana,22-07
+367,Cabo de Plata,Playa de la Hierbabuena,,Barbate,Cádiz,36.186226,-5.941415,2023-07-26,2023-07-29,4,musica urbana,26-07
+368,Impacto Fest,Las Ventas de Albares,"C. la Corredera, 1",Torre del Bierzo,León,42.603693,-6.391242,2023-07-28,2023-07-30,3,musica urbana,28-07
+369,Fan Futura Fest,Polideportivo San Javier,Explanada Mariano Rojas,San Javier,Murcia,37.810538,-0.829017,2023-07-28,2023-07-29,2,musica urbana,28-07
+370,Morriña Festival,Muelle de Batería,,A Coruña,A Coruña,43.365874,-8.402886,2023-07-28,2023-07-29,2,musica urbana,28-07
+371,Reggaeton Beach Festival (Santander),Campa de la Magdalena,"Av. de la Magdalena, s/n",Santander,Cantabria,43.468361,-3.772627,2023-07-29,2023-07-30,2,musica urbana,29-07
+372,Loona Summer Festival,Campo de Fútbol El Morche,"Calle el Copo, 40",El Morche,Málaga,36.736859,-3.988820,2023-07-29,2023-07-29,1,musica urbana,29-07
+373,Arenal Sound,Playa el Arenal,Avinguda de la Mediterrània s/n,Burriana,Castellón,39.864638,-0.066583,2023-08-01,2023-08-06,6,musica urbana,01-08
+374,Puro Latino Fest Cádiz,Recinto Ferial de Las Banderas,,El Puerto de Santa María,Cádiz,36.614942,-6.240084,2023-08-03,2023-08-05,3,musica urbana,03-08
+375,SonRías Baixas,Recinto Multiusos da Estacada,Rúa Pazos Fontenla 55,Bueu,Pontevedra,42.325401,-8.787413,2023-08-03,2023-08-05,3,musica urbana,03-08
+376,Dreambeach Festival,Playa de Villaricos (Cuevas del Almanzora),Playa de Villaricos,Almería,Almería,37.246981,-1.773692,2023-08-09,2023-08-13,5,musica urbana,09-08
+377,Vive la Feria Torrelavega,Recinto Ferial La Lechera,"Av. Rochefort Sur Mere, 41",Torrelavega,Cantabria,43.355016,-4.055758,2023-08-11,2023-08-13,3,musica urbana,11-08
+378,Reggaeton Beach Festival (Galicia),Parque Industrial Porto do Molle,,Nigrán,Pontevedra,42.138714,-8.788462,2023-08-12,2023-08-13,2,musica urbana,12-08
+379,Boombastic Day Costa del Sol,Marenostrum Fuengirola,,Fuengirola,Málaga,36.524777,-4.628699,2023-08-12,2023-08-12,1,musica urbana,12-08
+380,Boombastic Festival Alicante,Área 12,Carrer de Xàtiva,Alicante,Alicante,38.377604,-0.506809,2023-08-17,2023-08-19,3,musica urbana,17-08
+381,Riverland Festival,Recinto Riverland,,Arriondas,Asturias,43.393627,-5.176293,2023-08-24,2023-08-26,3,musica urbana,24-08
+382,Negrita Music Festival,Recinto Virgen del Mar,,Santander,Cantabria,43.476327,-3.877616,2023-09-01,2023-09-02,2,musica urbana,01-09
+383,Salamanca Vive Festival,Espacio Más,"N-501, km 88",Salamanca,Salamanca,40.948075,-5.585089,2023-09-08,2023-09-08,1,musica urbana,08-09
+384,Cranc Festival,Claustro del Cármen,"Plaza, Carrer del Claustre del Carme, s/n",Maó,Islas Baleares,39.889060,4.266654,2023-09-21,2023-09-24,4,musica urbana,21-09
+385,Metro Urban Fest,Cuartel de Artillería,"Calle Cartagena, 74",Murcia,Murcia,37.978577,-1.134553,2023-09-23,2023-09-23,1,musica urbana,23-09
+386,Madrid Salvaje,IFEMA Feria de Madrid,"AV. PARTENÓN, Nº 5",Madrid,Madrid,40.464224,-3.616383,2023-09-29,2023-09-30,2,musica urbana,29-09
+387,Rocanrola Alicante,Espai Rabasa,Calle de Xátiva S/N - Polígono Industrial Rabasa,Alicante,Alicante,38.378168,-0.505264,2023-10-05,2023-10-07,3,musica urbana,05-10
+388,Extremúsika,Recinto Hípico,"Ctra. Mérida, S/N",Cáceres,Cáceres,39.442331,-6.373283,2023-10-12,2023-10-14,3,musica urbana,12-10
+389,Miranda Urban Festival,La Fábrica de Tornillos,"Calle La Rioja, 2",Miranda de Ebro,Burgos,42.682562,-2.942104,2023-02-03,2023-02-04,2,musica urbana,03-02
+390,Pirata Fallas,Jardines de Viveros,"Carrer de Cavanilles, 1",Valencia,Valencia,39.480593,-0.367742,2023-03-02,2023-03-02,1,musica urbana,02-03
+391,La Noche de Cadena 100 (2023),WiZink Center,"Av. de Felipe II, s/n",Madrid,Madrid,40.423951,-3.671837,2023-03-18,2023-03-18,1,musica urbana,18-03
+392,Primaverando Sevilla Festival,Estadio de la Cartuja,Isla de la Cartuja,Sevilla,Sevilla,37.417178,-6.004637,2023-03-25,2023-03-25,1,musica urbana,25-03
+393,Primavera Festival Cáceres,Recinto Hípico,"Ctra. Mérida-Badajoz, s/n",Cáceres,Cáceres,39.442490,-6.372886,2023-03-30,2023-03-30,1,musica urbana,30-03
+394,Primavera Trompetera,Circuito de Jerez,"Carretera de Arcos-Jerez de la Frontera, Km 10",Jerez de la Frontera,Cádiz,36.709350,-6.034155,2023-03-30,2023-04-01,3,musica urbana,30-03
+395,B·Series,La Nau,"Carrer d'Àlaba, 30",Barcelona,Barcelona,41.394315,2.197004,2023-02-25,2023-03-31,35,musica urbana,25-02
+396,Los 40 Primavera Pop,WiZink Center,"Av. Felipe II, s/n",Madrid,Madrid,40.423886,-3.671837,2023-04-14,2023-04-14,1,musica urbana,14-04
+397,La Cueva Music Festival,Recinto Ferial de Alcalá de Guadaíra,C. San Juan,Alcalá de Guadaíra,Sevilla,37.331113,-5.840113,2023-04-15,2023-04-15,1,musica urbana,15-04
+398,Las Noches del Malecón,La Fica,"Diseminado Primero Mayo, 19",Murcia,Murcia,37.983784,-1.110520,2023-04-21,2023-09-16,149,musica urbana,21-04
+399,Solazo Fest,Recinto Ferial de Almería,Vega de Aca,Almería,Almería,36.837678,-2.431219,2023-04-28,2023-04-30,3,musica urbana,28-04
+400,Fuc! Festival Universitario Castellón,Plaza de Toros de Castellón,"Avenida Benito Pérez Galdós, s/n",Castelló de la Plana,Castellón,39.985900,-0.045490,2023-04-28,2023-04-28,1,musica urbana,28-04
+401,40 Minutu Rock,Landako Gunea,"Landako Etorbidea, 6",Durango,Vizcaya,43.171465,-2.630598,2023-02-25,2023-02-25,1,"rock, metal",25-02
+402,Pirata Fallas,Jardines de Viveros,"Carrer de Cavanilles, 1",Valencia,Valencia,39.480593,-0.367742,2023-03-02,2023-03-02,1,"rock, metal",02-03
+403,Heavy Metal Espectros,Sala Spectrum,"Av. Ciclista Mariano Rojas, 12",Puente Tocinos,Murcia,38.000750,-1.145260,2023-03-03,2023-03-04,2,"rock, metal",03-03
+404,A Candeloria,Pazo de Ferias y Congresos,Avda. dos Deportes s/n,Lugo,Lugo,43.003404,-7.568502,2023-03-04,2023-03-04,1,"rock, metal",04-03
+405,Adictes Fest,Espai Mercat,Pl de les Nacions sense Estat,Tárrega,Lleida,41.646035,1.140792,2023-03-04,2023-03-04,1,"rock, metal",04-03
+406,Palacio Metal Fest,Parque de Las Marismas,"Av de las Marismas, 21A",Los Palacios y Villafranca,Sevilla,37.154092,-5.926952,2023-03-04,2023-03-04,1,"rock, metal",04-03
+407,Devil´s Groove Metal Fest,Factoria de So,Cases de Son Llaüt s/n,Santa Maria del Camí,Islas Baleares,39.653915,2.792272,2023-03-04,2023-03-04,1,"rock, metal",04-03
+408,Euskal Metal Fest,C.C Larratxo,"Larratxo pasealekua, 55",San Sebastian,Guipuzcoa,43.315253,-1.938711,2023-03-10,2023-03-11,2,"rock, metal",10-03
+409,Puertollano Winter Festival,"Pabellón Ferial ""La Central""",,Puertollano,Ciudad Real,38.682026,-4.126267,2023-03-11,2023-03-11,1,"rock, metal",11-03
+410,Diario de un Metalhead Fest,Sala Gong,"Calle Julián Cañedo, s/n",Oviedo,Asturias,43.354154,-5.839971,2023-03-12,2023-03-12,1,"rock, metal",12-03
+411,Pounding Metal Fest,Sala Shoko Live,"Calle Toledo, 86",Madrid,Madrid,40.408747,-3.710636,2023-03-18,2023-03-18,1,"rock, metal",18-03
+412,Iberian Southern Warriors Metal Fest,Sala La Petite,"C/Londres, 9",Armilla,Granada,37.148063,-3.622828,2023-03-24,2023-03-25,2,"rock, metal",24-03
+413,Iberian Warriors Metal Fest,Urban Rock Concept,"Gamarrako Atea, 1",Vitoria-Gasteiz,Álava,42.858873,-2.663219,2023-03-24,2023-03-26,3,"rock, metal",24-03
+414,Rebel Fest,Sala Andén 56 (antigua Hangar),"San Pedro y San Felices, 56",Burgos,Burgos,42.332142,-3.709490,2023-03-25,2023-03-25,1,"rock, metal",25-03
+415,Alabordaje Fest,Pabellón De La Cantábrica,"Parque de la Cantábrica, C. la Industria, 45",Astillero,Cantabria,43.398179,-3.817287,2023-03-25,2023-03-25,1,"rock, metal",25-03
+416,Iruña Rock,Navarra Arena,"Plaza Aizagerria, nº 1",Pamplona,Navarra,42.795708,-1.634686,2023-03-31,2023-04-01,2,"rock, metal",31-03
+417,Festival Guoman,Plaza de España,,Guareña,Badajoz,38.859205,-6.102903,2023-03-31,2023-04-01,2,"rock, metal",31-03
+418,Trincheras Rock,"Recinto ferial ""El Trinquete""","Calle de la Concordia, 11",Sarrión,Teruel,40.139402,-0.815149,2023-04-01,2023-04-01,1,"rock, metal",01-04
+419,Metalmeria,Berlín Social Club,"Parque Nicolás Salmerón, 9",Almería,Almería,36.834982,-2.464904,2023-04-01,2023-04-01,1,"rock, metal",01-04
+420,Crápula a Go Go,Morticia Puffo,"C. Matilde Conesa, 6",Ponferrada,León,42.552891,-6.605573,2023-04-06,2023-04-09,4,"rock, metal",06-04
+421,Microsonidos,Varias localizaciones,,Murcia,,37.992050,-1.125357,2023-02-03,2023-04-07,64,"rock, metal",03-02
+422,Barcelona Psych Fest,Sala Upload,"Av. Francesc Ferrer i Guàrdia, 13",Barcelona,Barcelona,41.368178,2.146969,2023-04-14,2023-04-15,2,"rock, metal",14-04
+423,Torrock Festival,Plaza Mayor,Plaza Mayor,Torre de Don Miguel,Cáceres,40.223607,-6.577136,2023-04-14,2023-04-14,1,"rock, metal",14-04
+424,San Jorge Rock,Polideportivo Municipal,"Calle Pilar Lorengar, 2",Borja,Zaragoza,41.832959,-1.526971,2023-04-15,2023-04-15,1,"rock, metal",15-04
+425,Me Dan Arkadas Fest,Local Asociación (MásMúsica),"c/ Río Esla nº 34. Poligono industrial ""Las Hervencias""",Ávila,Ávila,40.669077,-4.690113,2023-04-15,2023-04-15,1,"rock, metal",15-04
+426,Araba Distortion Fest,Fernando Buesa Arena,Carretera de Zurbano s/n,Vitoria-Gasteiz,Álava,42.864138,-2.641697,2023-04-15,2023-04-15,1,"rock, metal",15-04
+427,Cachopo Fest,Sala Even,Calle José Díaz 5,Sevilla,Sevilla,37.408674,-5.989813,2023-04-15,2023-04-15,1,"rock, metal",15-04
+428,Bbfest (Burgos Brass Fest) Primavera,Varias localizaciones,,Burgos,Burgos,42.343761,-3.697854,2023-04-21,2023-04-21,1,"rock, metal",21-04
+429,Southern Metal Fest,Gruta 77,"C. Cuclillo, 6",Madrid,Madrid,40.390922,-3.731414,2023-04-22,2023-04-22,1,"rock, metal",22-04
+430,Kalagurrirock,Aparcamiento del Silo,"Calle Bebricio, 60",Calahorra,La Rioja,42.306150,-1.969868,2023-04-22,2023-04-22,1,"rock, metal",22-04
+431,Viña Rock,Recinto Ferial de Villarrobledo,"Santa Ana, 55",Villarrobledo,Albacete,39.272929,-2.608867,2023-04-28,2023-04-30,3,"rock, metal",28-04
+432,Festival Ebroclub,La Fábrica de Tornillos,La Rioja 2,Miranda de Ebro,Burgos,42.682562,-2.942104,2023-04-28,2023-04-29,2,"rock, metal",28-04
+433,DarkMAD,Autocine,"C. de la Isla de Java, 2",Madrid,Madrid,40.486224,-3.677802,2023-04-29,2023-04-30,2,"rock, metal",29-04
+434,Desemboca Rock'n'Roll Festival,Sala Font del Ferro,"Passeig Castell i Mar, 9",Castell-Platja d'Aro,Girona,41.815599,3.032502,2023-04-29,2023-04-30,2,"rock, metal",29-04
+435,Beach Riot Fest,Discoteca Ku,"Av. de la Comunitat Valenciana, Km. 121",Benidorm,Alicante,38.546140,-0.117726,2023-05-05,2023-05-06,2,"rock, metal",05-05
+436,Volcano Fest,Aguere Cultural,"Calle Herradores, 47",San Cristóbal de La Laguna,Santa Cruz de Tenerife,28.487623,-16.316899,2023-05-06,2023-05-06,1,"rock, metal",06-05
+437,Galia Metal Fest,Polideportivo Municipal,,Pozal de Gallinas,Valladolid,41.319440,-4.838332,2023-05-12,2023-05-13,2,"rock, metal",12-05
+438,Vértigo Rock,Ermua Antzokia,"Iparraguirre Kalea, s/n",Ermua,Vizcaya,43.185958,-2.500763,2023-05-12,2023-05-13,2,"rock, metal",12-05
+439,Zotes Rock,Zotes del Páramo,,Zotes del Páramo,León,42.272357,-5.736436,2023-05-12,2023-05-12,1,"rock, metal",12-05
+440,Storm Metal Fest,Sala Babel,"Calle del Comercio, 10 (Polígono Industrial Babel)",Alicante,Alicante,38.335298,-0.514432,2023-05-13,2023-05-13,1,"rock, metal",13-05
+441,Cáceres Underground Weekend,Mastropiero Gastrobar y Jardín,"Calle Fuente Nueva, 4",Cáceres,Cáceres,39.471587,-6.372381,2023-05-18,2023-05-20,3,"rock, metal",18-05
+442,OrozkoRock,Orozco,"Gorbeia Kalea, 26H",Orozco,Vizcaya,43.104833,-2.909258,2023-05-19,2023-05-20,2,"rock, metal",19-05
+443,No Future Fest (Vol.5),Sala la Mirona,Carrer d'Amnistia Internacional,Salt,Girona,41.968265,2.773426,2023-05-20,2023-05-20,1,"rock, metal",20-05
+444,Rocktabator Fest,Plaza de Toros de Lodosa,"C. Pl. de Toros, 12",Lodosa,Navarra,42.424819,-2.083481,2023-05-20,2023-05-20,1,"rock, metal",20-05
+445,Víncula Rock,Campo de Fútbol,,Escañuela,Jaén,37.875599,-4.029880,2023-05-20,2023-05-20,1,"rock, metal",20-05
+446,Ourensound Fest,La Ciudad de los Muchachos,,Bemposta,Ourense,42.302000,-7.847472,2023-05-26,2023-05-27,2,"rock, metal",26-05
+447,Kristonfest,Sala La Paqui (Antigua BUT),"C. de Barceló, 11",Madrid,Madrid,40.426982,-3.699747,2023-05-27,2023-05-27,1,"rock, metal",27-05
+448,Montgorock (MRK Xàbia Festival),Recinto La Fontana,,Xàbia (Jávea),Alicante,38.777940,0.185012,2023-06-02,2023-06-03,2,"rock, metal",02-06
+449,Surf O Rama Festival,Sala Repvblicca,"Pol. Industrial Mislata, Carrer Baix Vinalopó, 2",Valencia,,39.472830,-0.427006,2023-06-02,2023-06-03,2,"rock, metal",02-06
+450,Block Party Arganzuela,Explanada Multiusos Madrid Rio,Autop. de Circunvalación M-30,Madrid,Madrid,40.394597,-3.701394,2023-06-03,2023-06-03,1,"rock, metal",03-06
+451,Iberia Festival Murcia,Antiguo Cuartel de Artillería,"Calle Cartagena, 74",Murcia,Murcia,37.978581,-1.134551,2023-06-03,2023-06-03,1,"rock, metal",03-06
+452,Chichotorment Fest,Antugua Fábrica de Orujo,,Dúrcal,Granada,36.993487,-3.571630,2023-06-03,2023-06-03,1,"rock, metal",03-06
+453,Ehuneko Bat,Bekosolo Parkea,,Doneztebe,Vizcaya,43.248102,-2.889753,2023-06-03,2023-06-03,1,"rock, metal",03-06
+454,Z! Live Rock Fest,Recinto Ferial de I.F.E.Z.A,"Carr. de la Aldehuela, 25",Zamora,Zamora,41.519537,-5.715646,2023-06-07,2023-06-10,4,"rock, metal",07-06
+455,Astudillo Punk Rock,Polideportivo La Joya,"Avenida Nacho Viciosa, s/n",Astudillo,Palencia,42.192284,-4.299023,2023-06-09,2023-06-10,2,"rock, metal",09-06
+456,OleoRock,Polideportivo Matías Prats,"Av. de Jaén, 3",Torredonjimeno,Jaén,37.763760,-3.947289,2023-06-10,2023-06-10,1,"rock, metal",10-06
+457,Azkena Rock Festival,Recinto Mendizabala,Calle Mendizabala,Vitoria-Gasteiz,Álava,42.834043,-2.685149,2023-06-15,2023-06-17,3,"rock, metal",15-06
+458,Osteguna Rock Festival,Plaza de la Virgen Blanca,"Virgen Blanca Plaza, 5,",Gasteiz,Álava,42.846947,-2.673264,2023-06-15,2023-06-15,1,"rock, metal",15-06
+459,Renacer Metal Fest,Sala ReviLive,"C. los Cavilas, 4",Madrid,Madrid,40.401234,-3.590995,2023-06-16,2023-06-17,2,"rock, metal",16-06
+460,Festival Vintoro,Plaza de Toros,"Calle Pina, 6",Toro,Zamora,41.522652,-5.388515,2023-06-16,2023-06-17,2,"rock, metal",16-06
+461,Kabiefest Metal,Los Hoyos Bidea Iza,,Santurtzi,Vizcaya,43.320282,-3.034835,2023-06-16,2023-06-17,2,"rock, metal",16-06
+462,HDC 843 Rockin' Fest,Parque de La Pollina,"Cam. de la Vega, s/n",Fuenlabrada,Madrid,40.284528,-3.769013,2023-06-16,2023-06-18,3,"rock, metal",16-06
+463,Rock N Blues Festival,Recinto Las Arenas,"Carretera De Don Benito Guadalupe, 0 km 3",Don Benito,Badajoz,38.986234,-5.848503,2023-06-17,2023-06-17,1,"rock, metal",17-06
+464,Rock Imperium Festival,Parque de la Cuesta del Batel,,Cartagena,Murcia,37.601389,-0.977359,2023-06-23,2023-06-25,3,"rock, metal",23-06
+465,The Wild Fest,Parque Forestal San Miguel de Oia,,Vigo,Pontevedra,42.174472,-8.793440,2023-06-23,2023-06-25,3,"rock, metal",23-06
+466,BBK Music Legends Festival,Bilbao Arena,"Askatasuna Etorb., 13",Bilbao,Vizcaya,43.252056,-2.926059,2023-06-23,2023-06-24,2,"rock, metal",23-06
+467,Zeporock,Albergue Dulcinea del Toboso,Crtra. Quintanar s/n,El Toboso,Toledo,39.518385,-2.998849,2023-06-23,2023-06-25,3,"rock, metal",23-06
+468,Koba Live,Koba-Live,,Abadiño,Vizcaya,43.165972,-2.613164,2023-06-24,2023-06-24,1,"rock, metal",24-06
+469,Candil Rock,Aparcamientos del Edificio Cultural Paseo del Generalife,"P.º del Generalife, 40",Huércal de Almería,Almería,36.882650,-2.440428,2023-06-24,2023-06-24,1,"rock, metal",24-06
+470,Resurrection Fest,Campo de fútbol de Celeiro,"Avenida Ramón Canosa, 3",Viveiro,Lugo,43.676330,-7.591553,2023-06-28,2023-07-01,4,"rock, metal",28-06
+471,Antifa Rock Juneda,Recinto Antifa Rock Juneda,"Carrer d'Angel Guimerà, 39",Juneda,Lleida,41.547856,0.828946,2023-06-29,2023-07-01,3,"rock, metal",29-06
+472,SubeRock,Pabellon Multiusos,C/ Parque de España 3,San Vicente de Alcántara,Badajoz,39.363272,-7.137940,2023-06-30,2023-07-01,2,"rock, metal",30-06
+473,VDB Rock,Patio del instituto viejo,,Venta de Baños,Palencia,41.916666,-4.486735,2023-06-30,2023-07-01,2,"rock, metal",30-06
+474,Canet Rock,Canet de Mar,Pla d'en Sala,Canet de Mar,Barcelona,41.593742,2.567597,2023-07-01,2023-07-01,1,"rock, metal",01-07
+475,Maizu Rock,Intriago,,Intriago,Asturias,43.342915,-5.041167,2023-07-01,2023-07-01,1,"rock, metal",01-07
+476,Psychobilly Meeting,Varias ubicaciones,,Pineda de Mar,Barcelona,41.624510,2.682758,2023-07-04,2023-07-11,8,"rock, metal",04-07
+477,Mad Cool Festival,La Ciudad de la Música,Calle Laguna Dalga,Colonia Marconi (Villaverde),Madrid,40.329834,-3.711200,2023-07-06,2023-07-08,3,"rock, metal",06-07
+478,Festival Blues Cazorla,Cazorla (Varios espacios),Varios espacios,Cazorla,Jaén,37.912413,-3.003784,2023-07-06,2023-07-08,3,"rock, metal",06-07
+479,Zurbarán Rock,Parque de San Agustín,"Calle San Agustín, 4",Burgos,Burgos,42.333418,-3.700724,2023-07-07,2023-07-08,2,"rock, metal",07-07
+480,Alterna Festival,Recinto Alterna Festival,"Calle Don Quijote de la Mancha, 2",El Bonillo,Albacete,38.952476,-2.536924,2023-07-07,2023-07-08,2,"rock, metal",07-07
+481,Mondra & Roll,Parque de Monterrón,,Arrasate,Guipuzcoa,43.066709,-2.491531,2023-07-07,2023-07-08,2,"rock, metal",07-07
+482,Galleta Rock Fest,Ciudad Deportiva Alberto Fernández,"Paseo El Soto, 7",Aguilar de Campoo,Palencia,42.790043,-4.258677,2023-07-08,2023-07-08,1,"rock, metal",08-07
+483,Dolmen Music Fest,Recinto del antiguo Liceo,"Calle Urb. San Roque, 42",Villarcayo,Burgos,42.941196,-3.568982,2023-07-08,2023-07-08,1,"rock, metal",08-07
+484,Pirata Beach Festival,Polígono Industrial Benieto,"Carrer dels Carrossers, 27",Gandia,Valencia,38.956917,-0.170496,2023-07-12,2023-07-15,4,"rock, metal",12-07
+485,Motorbeach Festival,Playa Amogable,,Vinuesa,Soria,41.858037,-2.807406,2023-07-13,2023-07-16,4,"rock, metal",13-07
+486,Estaka Rock Festival,Polideportivo Palomares,Calle San Miguel de Fluviá s/n,Jódar,Jaén,37.838605,-3.346436,2023-07-14,2023-07-15,2,"rock, metal",14-07
+487,Huercasa Country Festival,Campo de Fútbol Municipal Las Delicias,Avenida de Madrid,Riaza,Segovia,41.270203,-3.495079,2023-07-14,2023-07-15,2,"rock, metal",14-07
+488,Rock Land Art Fest,Santo Domingo de la Calzada,,Santo Domingo de la Calzada,La Rioja,42.439318,-2.953497,2023-07-14,2023-07-16,3,"rock, metal",14-07
+489,Kanekas Metal Fest,Explanada Naves de Ojea,,Cangas Do Morrazo,Pontevedra,42.263017,-8.780540,2023-07-21,2023-07-22,2,"rock, metal",21-07
+490,Tresparock,Trespaderne,,Burgos,Burgos,42.802637,-3.387952,2023-07-21,2023-07-23,3,"rock, metal",21-07
+491,Castelo Rock,Castelo Rock,,Muros,A Coruña,42.775008,-9.055320,2023-07-21,2023-07-22,2,"rock, metal",21-07
+492,Tsunami Xixón Festival,Parque Hermanos Castro,"Paseo Dr. Fleming, 7",Gijón,Asturias,43.539356,-5.640407,2023-07-27,2023-07-29,3,"rock, metal",27-07
+493,Enclave de Agua,Paraje natural Soto Playa,"Paseo de San Prudencio, 14",Soria,Soria,41.762797,-2.454908,2023-07-27,2023-07-29,3,"rock, metal",27-07
+494,Ezca Fest,Real Fábrica de Ezcaray,"Ctra. Santo Domingo, 0",Ezcaray,La Rioja,42.327784,-3.013891,2023-07-28,2023-07-30,3,"rock, metal",28-07
+495,Barna 'n' Roll,Poble Espanyol,"Av Francesc Ferrer i Guardia, 13",Barcelona,Barcelona,41.368792,2.146898,2023-07-28,2023-07-29,2,"rock, metal",28-07
+496,Bellota Rock Fest,La Abadía,Calle Plasencia,Valdencín,Cáceres,39.915563,-6.409385,2023-07-28,2023-07-29,2,"rock, metal",28-07
+497,Barcia Metal Fest,Auditorio Torres Oscuras,"Calle las Torres, 22",Torreperogil,Jaén,38.032620,-3.287358,2023-07-29,2023-07-29,1,"rock, metal",29-07
+498,Charca Rock,Auditorio Municipal,"Plaza Autor Francisco Almagro, s/n",Pegalajar,Jaén,37.738369,-3.643776,2023-07-29,2023-07-29,1,"rock, metal",29-07
+499,The Juergas Rock Festival,Recinto The Juergas Rock,Playa del Censo s/n,Adra,Almería,36.743544,-3.010919,2023-08-02,2023-08-05,4,"rock, metal",02-08
+500,Festiuet,Playa de San Salvador,,El Vendrell,Tarragona,41.181852,1.534481,2023-08-03,2023-08-05,3,"rock, metal",03-08
+501,Cebolla Rock,Plaza de Toros de Belorado,"Av. Campo de los Deportes, 24",Belorado,Burgos,42.416558,-3.193948,2023-08-05,2023-08-05,1,"rock, metal",05-08
+502,ChooRock Festival,Auditorio Municipal,Calle Ancha,Corral de Calatrava,Ciudad Real,38.858931,-4.080898,2023-08-05,2023-08-05,1,"rock, metal",05-08
+503,Festival Novato Rock,Piscina Municipal,"Av. de la Habana, 29D",Vilches,Jaén,38.206589,-3.509842,2023-08-05,2023-08-05,1,"rock, metal",05-08
+504,Leyendas del Rock,Polideportivo Municipal,Barrio San Francisco De Asís S/N,Villena,Alicante,38.631912,-0.847385,2023-08-09,2023-08-12,4,"rock, metal",09-08
+505,FiestoRon,Recinto Ferial de Arucas,"S/N, Ctra. del Lomo",Arucas,Las Palmas,28.117912,-15.521761,2023-08-11,2023-08-12,2,"rock, metal",11-08
+506,Rock In Pino,Plaza Mayor,,Pinofranqueado,Cáceres,40.301851,-6.334047,2023-08-11,2023-08-11,1,"rock, metal",11-08
+507,Frank Rock & Blues Festival,Auditorio Torres Oscuras,"Calle las Torres, 22",Torreperogil,Jaén,38.032522,-3.287369,2023-08-11,2023-08-13,3,"rock, metal",11-08
+508,Rabolagartija Festival,Polideportivo Municipal de Villena,"La Solana, s/n",Villena,Alicante,38.631858,-0.846634,2023-08-17,2023-08-19,3,"rock, metal",17-08
+509,AbejaRock,Recinto Ferial de Béjar,"Subida pinos, 33",Béjar,Salamanca,40.383171,-5.752904,2023-08-18,2023-08-19,2,"rock, metal",18-08
+510,Sierra Nevada por Todo lo Alto,Plaza de Andalucía,,"['Padrollano', 'Monachil']",Granada,37.093023,-3.399145,2023-08-18,2023-08-19,2,"rock, metal",18-08
+511,OchanduRock,Pabellón de l@s Jóvenes,"Calle La Iglesia (226,37 km)",Ochánduri,La Rioja,42.525649,-3.003116,2023-08-19,2023-08-19,1,"rock, metal",19-08
+512,Unirock,Varias localizaciones,,"['Puerto de Vega', 'Navia']",Asturias,43.564974,-6.647783,2023-08-19,2023-08-19,1,"rock, metal",19-08
+513,Ripollet Rock,Parc dels Pinetons,"C/ Torrent Tortuguer, s/n",Ripollet,Barcelona,41.508984,2.152724,2023-08-25,2023-08-25,1,"rock, metal",25-08
+514,Rock en Femenino,Polideportivo Matias Prats,"Av. de Jaén, 3",Torredonjimeno,Jaén,37.763760,-3.947289,2023-08-26,2023-08-26,1,"rock, metal",26-08
+515,Poetas del Rock Cuenca,"Estadio ""La Fuensanta""","Av. de los Alfares, 17",Cuenca,Cuenca,40.075709,-2.145827,2023-08-31,2023-08-31,1,"rock, metal",31-08
+516,GrimalRock,GrimalRock,,Grimaldo,Cáceres,39.838650,-6.347661,2023-09-02,2023-09-02,1,"rock, metal",02-09
+517,Alpujarrako Fest,Explanada recinto ferial Dalías,,Dalías,Almería,36.821432,-2.870712,2023-09-02,2023-09-02,1,"rock, metal",02-09
+518,Algarroba Rock Fest,Carpa Municipal Parque La Escalera,C. la Escalerilla,Algarrobo,Málaga,36.772726,-4.037894,2023-09-02,2023-09-02,1,"rock, metal",02-09
+519,Beltane Fest,Polideportivo Municipal de Comillas,Camino de Santa Lucía s/n,Comillas,Cantabria,43.387616,-4.285558,2023-09-02,2023-09-02,1,"rock, metal",02-09
+520,Festival Revenidas,Porto de Vilaxoán,,Vilagarcía de Arousa,Pontevedra,42.587613,-8.790092,2023-09-07,2023-09-10,4,"rock, metal",07-09
+521,BurGore Death Fest,Sala Andén 56,"C. San Pedro y San Felices, 56",Burgos,Burgos,42.332043,-3.709409,2023-09-09,2023-09-09,1,"rock, metal",09-09
+522,Inkestas Rock Festibal,Sopela,,Sopela,Vizcaya,43.381541,-2.981036,2023-09-15,2023-09-16,2,"rock, metal",15-09
+523,Karma Fest,Parking Nuevo C/Pelayo,Calle Pelayo,Pola de Laviana,Asturias,43.246425,-5.565587,2023-09-23,2023-09-23,1,"rock, metal",23-09
+524,FestiJack,Plaza de Toros de Aranjuez,"Av. Plaza de Toros, 0",Aranjuez,Madrid,40.028239,-3.603430,2023-09-23,2023-09-23,1,"rock, metal",23-09
+525,Iberia Festival,Auditorio Julio Iglesias,"Calle Primavera, 22",Benidorm,Alicante,38.542232,-0.130334,2023-09-29,2023-09-30,2,"rock, metal",29-09
+526,GinetaRock Festival,Salón Municipal,Calle de Santa Ana,La Gineta,Albacete,39.113295,-2.000193,2023-09-30,2023-09-30,1,"rock, metal",30-09
+527,Aquelarre Metalrock Fest,Garaje Beat Club,"Av. Miguel de Cervantes, 45",Murcia,Murcia,38.001227,-1.144606,2023-10-07,2023-10-07,1,"rock, metal",07-10
+528,Full Metal Holiday (Destination Mallorca),Hotel Iberostar Club Cala Barca,"Urbanización Sa Barca Trancada, Calle de la Barca Trancada, S/N,","['Portopetro', 'Mallorca']",Islas Baleares,39.353705,3.199929,2023-10-09,2023-10-16,8,"rock, metal",09-10
+529,Festardor,Puerto de Sagunto,"Av. Hornos Altos, 49A",Sagunto,Valencia,39.655754,-0.217789,2023-10-11,2023-10-14,4,"rock, metal",11-10
+530,Extremúsika,Recinto Hípico,"Ctra. Mérida, S/N",Cáceres,Cáceres,39.442331,-6.373283,2023-10-12,2023-10-14,3,"rock, metal",12-10
+531,Caravaca Power Pop,Caravaca de la Cruz,,,Murcia,38.111608,-1.861260,2023-10-20,2023-10-21,2,"rock, metal",20-10
+532,Skulls Of Metal,Recinto Ferial Cubierto,Calle Los Álamos 1,Begíjar,Jaén,37.987834,-3.524883,2023-10-21,2023-10-21,1,"rock, metal",21-10
+533,Festival Actual,Riojafórum,"Calle San Millán, 23 - 25",Logroño,La Rioja,42.471594,-2.430232,2023-01-02,2023-01-07,6,"rock, metal",02-01
+534,Gabonak In Hell,Larratxo Kultur Etxea,"Larratxo pasealekua, 55",San Sebastián,Guipuzcoa,43.315311,-1.938787,2023-01-14,2023-01-14,1,"rock, metal",14-01
+535,F*ck The Censorship Festival,Plaza de Toros,"Av. Constitución, 145",Villena,Alicante,38.639604,-0.868354,2023-01-28,2023-01-28,1,"rock, metal",28-01
+536,Sant Antoni Pop Festival,Pub Monkey,"Carrer de la Coma, 30",Betxí,Castellón,39.927271,-0.200801,2023-01-28,2023-01-28,1,"rock, metal",28-01
+537,Rockin Race Jamboree,Auditorio Principe de Asturias,"Calle Pedro Navarro Bruna, s/n",Torremolinos,Málaga,36.621211,-4.511819,2023-02-02,2023-02-05,4,"rock, metal",02-02
+538,Gazpatxo Rock,Patio Escuelas,"Doctor Manuel Romaní, s/n",Ayora,Valencia,39.061341,-1.062203,2023-02-10,2023-02-11,2,"rock, metal",10-02
+539,Extreme Division Mallorca Fest,Sala Es Gremi Centre Musical,"C/ Gremi de Porgadors, 16",Mallorca,Islas Baleares,39.596876,2.669956,2023-02-10,2023-02-10,1,"rock, metal",10-02
+540,Valladolid Blues,Teatro Carrión,"C. Montero Calvo, 2",Valladolid,Valladolid,41.649996,-4.728177,2023-02-10,2023-03-10,29,"rock, metal",10-02
+541,Carrion Rock Festival,Sala Infinity,"Calle Extremadura, 5",Palencia,Palencia,42.006608,-4.519082,2023-02-11,2023-02-11,1,"rock, metal",11-02
+542,Wáchina Wáchina Fest,16 Toneladas,Ricardo Micó 3,Valencia,Valencia,39.481255,-0.387633,2023-02-18,2023-02-18,1,"rock, metal",18-02
+543,Black Sound Fest,Teatro Imperial,"C. Doña Consuelo Torres, 6",Don Benito,Badajoz,38.953452,-5.860906,2023-02-04,2023-02-25,22,"rock, metal",04-02
+544,Heavy Jaia,Centro Cultural Larratxo,"Larratxo pasealekua, 55",Donostia,Guipuzcoa,43.315311,-1.938765,2023-02-25,2023-02-25,1,"rock, metal",25-02
